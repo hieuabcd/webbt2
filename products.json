@@ -1,0 +1,1765 @@
+[
+  {
+    "id": "GB10001",
+    "name": "Gấu Teddy Cao Cấp Màu Nâu",
+    "price": "1850000",
+    "category": "Gấu Teddy Cao Cấp",
+    "sizes": [
+      "1m7 – 1.400.000đ",
+      "1m5 – 1.100.000đ",
+      "1m1 – 655.000đ"
+    ],
+    "desc": "Gấu teddy cao cấp mềm mại, thiết kế sang trọng.",
+    "material": "Lông thú mềm mại",
+    "cotton": "100% bông nguyên sinh cao cấp",
+    "guide": "Dùng làm gấu ôm, trang trí hoặc quà tặng",
+    "note": "Nên giặt khô hoặc dùng dịch vụ chuyên nghiệp",
+    "img": "/img/product/gauteddy/5.jpg"
+  },
+  {
+    "id": "GB10002",
+    "name": "Gấu Hot Trend",
+    "price": "250000",
+    "category": "Gấu Bông Hot Trend",
+    "sizes": [
+      "1m7 – 1.400.000đ",
+      "1m5 – 1.100.000đ",
+      "1m1 – 655.000đ"
+    ],
+    "desc": "Gấu teddy cao cấp mềm mại, thiết kế sang trọng.",
+    "material": "Lông thú mềm mại",
+    "cotton": "100% bông nguyên sinh cao cấp",
+    "guide": "Dùng làm gấu ôm, trang trí hoặc quà tặng",
+    "note": "Nên giặt khô hoặc dùng dịch vụ chuyên nghiệp",
+    "img": "/img/product/gauhottrend/1.jpg"
+  },
+  {
+    "id": "GB10003",
+    "name": "Gấu Bông Nâu Dễ Thương",
+    "price": "750000",
+    "category": "Gấu Bông Dễ Thương",
+    "sizes": [
+      "1m7 – 1.400.000đ",
+      "1m5 – 1.100.000đ",
+      "1m1 – 655.000đ"
+    ],
+    "desc": "Gấu teddy cao cấp mềm mại, thiết kế sang trọng.",
+    "material": "Lông thú mềm mại",
+    "cotton": "100% bông nguyên sinh cao cấp",
+    "guide": "Dùng làm gấu ôm, trang trí hoặc quà tặng",
+    "note": "Nên giặt khô hoặc dùng dịch vụ chuyên nghiệp",
+    "img": "/img/product/gaubongdethuong/1 .jpg"
+  },
+  {
+    "id": "GB10004",
+    "name": "Gấu Bông Tím Dễ Thương ",
+    "price": "850000",
+    "category": "Gấu Bông Dễ Thương",
+    "sizes": [
+      "1m7 – 1.400.000đ",
+      "1m5 – 1.100.000đ",
+      "1m1 – 655.000đ"
+    ],
+    "desc": "Gấu teddy cao cấp mềm mại, thiết kế sang trọng.",
+    "material": "Lông thú mềm mại",
+    "cotton": "100% bông nguyên sinh cao cấp",
+    "guide": "Dùng làm gấu ôm, trang trí hoặc quà tặng",
+    "note": "Nên giặt khô hoặc dùng dịch vụ chuyên nghiệp",
+    "img": "/img/product/gaubongdethuong/2.jpg"
+  },
+  {
+    "id": "GB10005",
+    "name": "Gấu Teddy Trắng Cặp ",
+    "price": "50000",
+    "category": "Gấu Teddy Cao Cấp",
+    "sizes": [
+      "1m7 – 1.400.000đ",
+      "1m5 – 1.100.000đ",
+      "1m1 – 655.000đ"
+    ],
+    "desc": "Gấu teddy cao cấp mềm mại, thiết kế sang trọng.",
+    "material": "Lông thú mềm mại",
+    "cotton": "100% bông nguyên sinh cao cấp",
+    "guide": "Dùng làm gấu ôm, trang trí hoặc quà tặng",
+    "note": "Nên giặt khô hoặc dùng dịch vụ chuyên nghiệp",
+    "img": "/img/product/gauteddy/6.jpg"
+  },
+  {
+    "id": "GB10006",
+    "name": "Gấu Teddy Cao Cấp Màu Nâu Cặp Đôi",
+    "price": "1450000",
+    "category": "Gấu Teddy Cao Cấp",
+    "sizes": [
+      "1m7 – 1.400.000đ",
+      "1m5 – 1.100.000đ",
+      "1m1 – 655.000đ"
+    ],
+    "desc": "Gấu teddy cao cấp mềm mại, thiết kế sang trọng.",
+    "material": "Lông thú mềm mại",
+    "cotton": "100% bông nguyên sinh cao cấp",
+    "guide": "Dùng làm gấu ôm, trang trí hoặc quà tặng",
+    "note": "Nên giặt khô hoặc dùng dịch vụ chuyên nghiệp",
+    "img": "/img/product/gauteddy/7.jpg"
+  },
+  {
+    "id": "GB10006",
+    "name": "Gấu Teddy Cao Cấp Màu Nâu Cặp Đôi",
+    "price": "1450000",
+    "category": "Gấu Teddy Cao Cấp",
+    "sizes": [
+      "1m7 – 1.400.000đ",
+      "1m5 – 1.100.000đ",
+      "1m1 – 655.000đ"
+    ],
+    "desc": "Gấu teddy cao cấp mềm mại, thiết kế sang trọng.",
+    "material": "Lông thú mềm mại",
+    "cotton": "100% bông nguyên sinh cao cấp",
+    "guide": "Dùng làm gấu ôm, trang trí hoặc quà tặng",
+    "note": "Nên giặt khô hoặc dùng dịch vụ chuyên nghiệp",
+    "img": "/img/product/gauteddy/7.jpg"
+  },
+  {
+    "id": "GB10006",
+    "name": "Gấu Teddy Cao Cấp Màu Nâu Cặp Đôi",
+    "price": "1450000",
+    "category": "Gấu Teddy Cao Cấp",
+    "sizes": [
+      "1m7 – 1.400.000đ",
+      "1m5 – 1.100.000đ",
+      "1m1 – 655.000đ"
+    ],
+    "desc": "Gấu teddy cao cấp mềm mại, thiết kế sang trọng.",
+    "material": "Lông thú mềm mại",
+    "cotton": "100% bông nguyên sinh cao cấp",
+    "guide": "Dùng làm gấu ôm, trang trí hoặc quà tặng",
+    "note": "Nên giặt khô hoặc dùng dịch vụ chuyên nghiệp",
+    "img": "/img/product/gauteddy/7.jpg"
+  },
+  {
+    "id": "GB10006",
+    "name": "Gấu Teddy Cao Cấp Màu Nâu Cặp Đôi",
+    "price": "1450000",
+    "category": "Gấu Teddy Cao Cấp",
+    "sizes": [
+      "1m7 – 1.400.000đ",
+      "1m5 – 1.100.000đ",
+      "1m1 – 655.000đ"
+    ],
+    "desc": "Gấu teddy cao cấp mềm mại, thiết kế sang trọng.",
+    "material": "Lông thú mềm mại",
+    "cotton": "100% bông nguyên sinh cao cấp",
+    "guide": "Dùng làm gấu ôm, trang trí hoặc quà tặng",
+    "note": "Nên giặt khô hoặc dùng dịch vụ chuyên nghiệp",
+    "img": "/img/product/gauteddy/7.jpg"
+  },
+  {
+    "id": "GB10006",
+    "name": "Gấu Teddy Cao Cấp Màu Nâu Cặp Đôi",
+    "price": "1450000",
+    "category": "Gấu Teddy Cao Cấp",
+    "sizes": [
+      "1m7 – 1.400.000đ",
+      "1m5 – 1.100.000đ",
+      "1m1 – 655.000đ"
+    ],
+    "desc": "Gấu teddy cao cấp mềm mại, thiết kế sang trọng.",
+    "material": "Lông thú mềm mại",
+    "cotton": "100% bông nguyên sinh cao cấp",
+    "guide": "Dùng làm gấu ôm, trang trí hoặc quà tặng",
+    "note": "Nên giặt khô hoặc dùng dịch vụ chuyên nghiệp",
+    "img": "/img/product/gauteddy/7.jpg"
+  },
+  {
+    "id": "GB10006",
+    "name": "Gấu Teddy Cao Cấp Màu Nâu Cặp Đôi",
+    "price": "1450000",
+    "category": "Gấu Teddy Cao Cấp",
+    "sizes": [
+      "1m7 – 1.400.000đ",
+      "1m5 – 1.100.000đ",
+      "1m1 – 655.000đ"
+    ],
+    "desc": "Gấu teddy cao cấp mềm mại, thiết kế sang trọng.",
+    "material": "Lông thú mềm mại",
+    "cotton": "100% bông nguyên sinh cao cấp",
+    "guide": "Dùng làm gấu ôm, trang trí hoặc quà tặng",
+    "note": "Nên giặt khô hoặc dùng dịch vụ chuyên nghiệp",
+    "img": "/img/product/gauteddy/7.jpg"
+  },
+  {
+    "id": "GB10006",
+    "name": "Gấu Teddy Cao Cấp Màu Nâu Cặp Đôi",
+    "price": "1450000",
+    "category": "Gấu Teddy Cao Cấp",
+    "sizes": [
+      "1m7 – 1.400.000đ",
+      "1m5 – 1.100.000đ",
+      "1m1 – 655.000đ"
+    ],
+    "desc": "Gấu teddy cao cấp mềm mại, thiết kế sang trọng.",
+    "material": "Lông thú mềm mại",
+    "cotton": "100% bông nguyên sinh cao cấp",
+    "guide": "Dùng làm gấu ôm, trang trí hoặc quà tặng",
+    "note": "Nên giặt khô hoặc dùng dịch vụ chuyên nghiệp",
+    "img": "/img/product/gauteddy/7.jpg"
+  },
+  {
+    "id": "GB10006",
+    "name": "Gấu Teddy Cao Cấp Màu Nâu Cặp Đôi",
+    "price": "1450000",
+    "category": "Gấu Teddy Cao Cấp",
+    "sizes": [
+      "1m7 – 1.400.000đ",
+      "1m5 – 1.100.000đ",
+      "1m1 – 655.000đ"
+    ],
+    "desc": "Gấu teddy cao cấp mềm mại, thiết kế sang trọng.",
+    "material": "Lông thú mềm mại",
+    "cotton": "100% bông nguyên sinh cao cấp",
+    "guide": "Dùng làm gấu ôm, trang trí hoặc quà tặng",
+    "note": "Nên giặt khô hoặc dùng dịch vụ chuyên nghiệp",
+    "img": "/img/product/gauteddy/7.jpg"
+  },
+  {
+    "id": "GB10006",
+    "name": "Gấu Teddy Cao Cấp Màu Nâu Cặp Đôi",
+    "price": "1450000",
+    "category": "Gấu Teddy Cao Cấp",
+    "sizes": [
+      "1m7 – 1.400.000đ",
+      "1m5 – 1.100.000đ",
+      "1m1 – 655.000đ"
+    ],
+    "desc": "Gấu teddy cao cấp mềm mại, thiết kế sang trọng.",
+    "material": "Lông thú mềm mại",
+    "cotton": "100% bông nguyên sinh cao cấp",
+    "guide": "Dùng làm gấu ôm, trang trí hoặc quà tặng",
+    "note": "Nên giặt khô hoặc dùng dịch vụ chuyên nghiệp",
+    "img": "/img/product/gauteddy/7.jpg"
+  },
+  {
+    "id": "GB10006",
+    "name": "Gấu Teddy Cao Cấp Màu Nâu Cặp Đôi",
+    "price": "1450000",
+    "category": "Gấu Teddy Cao Cấp",
+    "sizes": [
+      "1m7 – 1.400.000đ",
+      "1m5 – 1.100.000đ",
+      "1m1 – 655.000đ"
+    ],
+    "desc": "Gấu teddy cao cấp mềm mại, thiết kế sang trọng.",
+    "material": "Lông thú mềm mại",
+    "cotton": "100% bông nguyên sinh cao cấp",
+    "guide": "Dùng làm gấu ôm, trang trí hoặc quà tặng",
+    "note": "Nên giặt khô hoặc dùng dịch vụ chuyên nghiệp",
+    "img": "/img/product/gauteddy/7.jpg"
+  },
+  {
+    "id": "GB10006",
+    "name": "Gấu Teddy Cao Cấp Màu Nâu Cặp Đôi",
+    "price": "1450000",
+    "category": "Gấu Teddy Cao Cấp",
+    "sizes": [
+      "1m7 – 1.400.000đ",
+      "1m5 – 1.100.000đ",
+      "1m1 – 655.000đ"
+    ],
+    "desc": "Gấu teddy cao cấp mềm mại, thiết kế sang trọng.",
+    "material": "Lông thú mềm mại",
+    "cotton": "100% bông nguyên sinh cao cấp",
+    "guide": "Dùng làm gấu ôm, trang trí hoặc quà tặng",
+    "note": "Nên giặt khô hoặc dùng dịch vụ chuyên nghiệp",
+    "img": "/img/product/gauteddy/7.jpg"
+  },
+  {
+    "id": "GB10006",
+    "name": "Gấu Teddy Cao Cấp Màu Nâu Cặp Đôi",
+    "price": "1450000",
+    "category": "Gấu Teddy Cao Cấp",
+    "sizes": [
+      "1m7 – 1.400.000đ",
+      "1m5 – 1.100.000đ",
+      "1m1 – 655.000đ"
+    ],
+    "desc": "Gấu teddy cao cấp mềm mại, thiết kế sang trọng.",
+    "material": "Lông thú mềm mại",
+    "cotton": "100% bông nguyên sinh cao cấp",
+    "guide": "Dùng làm gấu ôm, trang trí hoặc quà tặng",
+    "note": "Nên giặt khô hoặc dùng dịch vụ chuyên nghiệp",
+    "img": "/img/product/gauteddy/7.jpg"
+  },
+  {
+    "id": "GB10006",
+    "name": "Gấu Teddy Cao Cấp Màu Nâu Cặp Đôi",
+    "price": "1450000",
+    "category": "Gấu Teddy Cao Cấp",
+    "sizes": [
+      "1m7 – 1.400.000đ",
+      "1m5 – 1.100.000đ",
+      "1m1 – 655.000đ"
+    ],
+    "desc": "Gấu teddy cao cấp mềm mại, thiết kế sang trọng.",
+    "material": "Lông thú mềm mại",
+    "cotton": "100% bông nguyên sinh cao cấp",
+    "guide": "Dùng làm gấu ôm, trang trí hoặc quà tặng",
+    "note": "Nên giặt khô hoặc dùng dịch vụ chuyên nghiệp",
+    "img": "/img/product/gauteddy/7.jpg"
+  },
+  {
+    "id": "GB10006",
+    "name": "Gấu Teddy Cao Cấp Màu Nâu Cặp Đôi",
+    "price": "1450000",
+    "category": "Gấu Teddy Cao Cấp",
+    "sizes": [
+      "1m7 – 1.400.000đ",
+      "1m5 – 1.100.000đ",
+      "1m1 – 655.000đ"
+    ],
+    "desc": "Gấu teddy cao cấp mềm mại, thiết kế sang trọng.",
+    "material": "Lông thú mềm mại",
+    "cotton": "100% bông nguyên sinh cao cấp",
+    "guide": "Dùng làm gấu ôm, trang trí hoặc quà tặng",
+    "note": "Nên giặt khô hoặc dùng dịch vụ chuyên nghiệp",
+    "img": "/img/product/gauteddy/7.jpg"
+  },
+  {
+    "id": "GB10006",
+    "name": "Gấu Teddy Cao Cấp Màu Nâu Cặp Đôi",
+    "price": "1450000",
+    "category": "Gấu Teddy Cao Cấp",
+    "sizes": [
+      "1m7 – 1.400.000đ",
+      "1m5 – 1.100.000đ",
+      "1m1 – 655.000đ"
+    ],
+    "desc": "Gấu teddy cao cấp mềm mại, thiết kế sang trọng.",
+    "material": "Lông thú mềm mại",
+    "cotton": "100% bông nguyên sinh cao cấp",
+    "guide": "Dùng làm gấu ôm, trang trí hoặc quà tặng",
+    "note": "Nên giặt khô hoặc dùng dịch vụ chuyên nghiệp",
+    "img": "/img/product/gauteddy/7.jpg"
+  },
+  {
+    "id": "GB10006",
+    "name": "Gấu Teddy Cao Cấp Màu Nâu Cặp Đôi",
+    "price": "1450000",
+    "category": "Gấu Teddy Cao Cấp",
+    "sizes": [
+      "1m7 – 1.400.000đ",
+      "1m5 – 1.100.000đ",
+      "1m1 – 655.000đ"
+    ],
+    "desc": "Gấu teddy cao cấp mềm mại, thiết kế sang trọng.",
+    "material": "Lông thú mềm mại",
+    "cotton": "100% bông nguyên sinh cao cấp",
+    "guide": "Dùng làm gấu ôm, trang trí hoặc quà tặng",
+    "note": "Nên giặt khô hoặc dùng dịch vụ chuyên nghiệp",
+    "img": "/img/product/gauteddy/7.jpg"
+  },
+  {
+    "id": "GB10006",
+    "name": "Gấu Teddy Cao Cấp Màu Nâu Cặp Đôi",
+    "price": "1450000",
+    "category": "Gấu Teddy Cao Cấp",
+    "sizes": [
+      "1m7 – 1.400.000đ",
+      "1m5 – 1.100.000đ",
+      "1m1 – 655.000đ"
+    ],
+    "desc": "Gấu teddy cao cấp mềm mại, thiết kế sang trọng.",
+    "material": "Lông thú mềm mại",
+    "cotton": "100% bông nguyên sinh cao cấp",
+    "guide": "Dùng làm gấu ôm, trang trí hoặc quà tặng",
+    "note": "Nên giặt khô hoặc dùng dịch vụ chuyên nghiệp",
+    "img": "/img/product/gauteddy/7.jpg"
+  },
+  {
+    "id": "GB10006",
+    "name": "Gấu Teddy Cao Cấp Màu Nâu Cặp Đôi",
+    "price": "1450000",
+    "category": "Gấu Teddy Cao Cấp",
+    "sizes": [
+      "1m7 – 1.400.000đ",
+      "1m5 – 1.100.000đ",
+      "1m1 – 655.000đ"
+    ],
+    "desc": "Gấu teddy cao cấp mềm mại, thiết kế sang trọng.",
+    "material": "Lông thú mềm mại",
+    "cotton": "100% bông nguyên sinh cao cấp",
+    "guide": "Dùng làm gấu ôm, trang trí hoặc quà tặng",
+    "note": "Nên giặt khô hoặc dùng dịch vụ chuyên nghiệp",
+    "img": "/img/product/gauteddy/7.jpg"
+  },
+  {
+    "id": "GB10006",
+    "name": "Gấu Teddy Cao Cấp Màu Nâu Cặp Đôi",
+    "price": "1450000",
+    "category": "Gấu Teddy Cao Cấp",
+    "sizes": [
+      "1m7 – 1.400.000đ",
+      "1m5 – 1.100.000đ",
+      "1m1 – 655.000đ"
+    ],
+    "desc": "Gấu teddy cao cấp mềm mại, thiết kế sang trọng.",
+    "material": "Lông thú mềm mại",
+    "cotton": "100% bông nguyên sinh cao cấp",
+    "guide": "Dùng làm gấu ôm, trang trí hoặc quà tặng",
+    "note": "Nên giặt khô hoặc dùng dịch vụ chuyên nghiệp",
+    "img": "/img/product/gauteddy/7.jpg"
+  },
+  {
+    "id": "GB10006",
+    "name": "Gấu Teddy Cao Cấp Màu Nâu Cặp Đôi",
+    "price": "1450000",
+    "category": "Gấu Teddy Cao Cấp",
+    "sizes": [
+      "1m7 – 1.400.000đ",
+      "1m5 – 1.100.000đ",
+      "1m1 – 655.000đ"
+    ],
+    "desc": "Gấu teddy cao cấp mềm mại, thiết kế sang trọng.",
+    "material": "Lông thú mềm mại",
+    "cotton": "100% bông nguyên sinh cao cấp",
+    "guide": "Dùng làm gấu ôm, trang trí hoặc quà tặng",
+    "note": "Nên giặt khô hoặc dùng dịch vụ chuyên nghiệp",
+    "img": "/img/product/gauteddy/7.jpg"
+  },
+  {
+    "id": "GB10006",
+    "name": "Gấu Teddy Cao Cấp Màu Nâu Cặp Đôi",
+    "price": "1450000",
+    "category": "Gấu Teddy Cao Cấp",
+    "sizes": [
+      "1m7 – 1.400.000đ",
+      "1m5 – 1.100.000đ",
+      "1m1 – 655.000đ"
+    ],
+    "desc": "Gấu teddy cao cấp mềm mại, thiết kế sang trọng.",
+    "material": "Lông thú mềm mại",
+    "cotton": "100% bông nguyên sinh cao cấp",
+    "guide": "Dùng làm gấu ôm, trang trí hoặc quà tặng",
+    "note": "Nên giặt khô hoặc dùng dịch vụ chuyên nghiệp",
+    "img": "/img/product/gauteddy/7.jpg"
+  },
+  {
+    "id": "GB10006",
+    "name": "Gấu Teddy Cao Cấp Màu Nâu Cặp Đôi",
+    "price": "1450000",
+    "category": "Gấu Teddy Cao Cấp",
+    "sizes": [
+      "1m7 – 1.400.000đ",
+      "1m5 – 1.100.000đ",
+      "1m1 – 655.000đ"
+    ],
+    "desc": "Gấu teddy cao cấp mềm mại, thiết kế sang trọng.",
+    "material": "Lông thú mềm mại",
+    "cotton": "100% bông nguyên sinh cao cấp",
+    "guide": "Dùng làm gấu ôm, trang trí hoặc quà tặng",
+    "note": "Nên giặt khô hoặc dùng dịch vụ chuyên nghiệp",
+    "img": "/img/product/gauteddy/7.jpg"
+  },
+  {
+    "id": "GB10006",
+    "name": "Gấu Teddy Cao Cấp Màu Nâu Cặp Đôi",
+    "price": "1450000",
+    "category": "Gấu Teddy Cao Cấp",
+    "sizes": [
+      "1m7 – 1.400.000đ",
+      "1m5 – 1.100.000đ",
+      "1m1 – 655.000đ"
+    ],
+    "desc": "Gấu teddy cao cấp mềm mại, thiết kế sang trọng.",
+    "material": "Lông thú mềm mại",
+    "cotton": "100% bông nguyên sinh cao cấp",
+    "guide": "Dùng làm gấu ôm, trang trí hoặc quà tặng",
+    "note": "Nên giặt khô hoặc dùng dịch vụ chuyên nghiệp",
+    "img": "/img/product/gauteddy/7.jpg"
+  },
+  {
+    "id": "GB10006",
+    "name": "Gấu Teddy Cao Cấp Màu Nâu Cặp Đôi",
+    "price": "1450000",
+    "category": "Gấu Teddy Cao Cấp",
+    "sizes": [
+      "1m7 – 1.400.000đ",
+      "1m5 – 1.100.000đ",
+      "1m1 – 655.000đ"
+    ],
+    "desc": "Gấu teddy cao cấp mềm mại, thiết kế sang trọng.",
+    "material": "Lông thú mềm mại",
+    "cotton": "100% bông nguyên sinh cao cấp",
+    "guide": "Dùng làm gấu ôm, trang trí hoặc quà tặng",
+    "note": "Nên giặt khô hoặc dùng dịch vụ chuyên nghiệp",
+    "img": "/img/product/gauteddy/7.jpg"
+  },
+  {
+    "id": "GB10006",
+    "name": "Gấu Teddy Cao Cấp Màu Nâu Cặp Đôi",
+    "price": "1450000",
+    "category": "Gấu Teddy Cao Cấp",
+    "sizes": [
+      "1m7 – 1.400.000đ",
+      "1m5 – 1.100.000đ",
+      "1m1 – 655.000đ"
+    ],
+    "desc": "Gấu teddy cao cấp mềm mại, thiết kế sang trọng.",
+    "material": "Lông thú mềm mại",
+    "cotton": "100% bông nguyên sinh cao cấp",
+    "guide": "Dùng làm gấu ôm, trang trí hoặc quà tặng",
+    "note": "Nên giặt khô hoặc dùng dịch vụ chuyên nghiệp",
+    "img": "/img/product/gauteddy/7.jpg"
+  },
+  {
+    "id": "GB10006",
+    "name": "Gấu Teddy Cao Cấp Màu Nâu Cặp Đôi",
+    "price": "1450000",
+    "category": "Gấu Teddy Cao Cấp",
+    "sizes": [
+      "1m7 – 1.400.000đ",
+      "1m5 – 1.100.000đ",
+      "1m1 – 655.000đ"
+    ],
+    "desc": "Gấu teddy cao cấp mềm mại, thiết kế sang trọng.",
+    "material": "Lông thú mềm mại",
+    "cotton": "100% bông nguyên sinh cao cấp",
+    "guide": "Dùng làm gấu ôm, trang trí hoặc quà tặng",
+    "note": "Nên giặt khô hoặc dùng dịch vụ chuyên nghiệp",
+    "img": "/img/product/gauteddy/7.jpg"
+  },
+  {
+    "id": "GB10006",
+    "name": "Gấu Teddy Cao Cấp Màu Nâu Cặp Đôi",
+    "price": "1450000",
+    "category": "Gấu Teddy Cao Cấp",
+    "sizes": [
+      "1m7 – 1.400.000đ",
+      "1m5 – 1.100.000đ",
+      "1m1 – 655.000đ"
+    ],
+    "desc": "Gấu teddy cao cấp mềm mại, thiết kế sang trọng.",
+    "material": "Lông thú mềm mại",
+    "cotton": "100% bông nguyên sinh cao cấp",
+    "guide": "Dùng làm gấu ôm, trang trí hoặc quà tặng",
+    "note": "Nên giặt khô hoặc dùng dịch vụ chuyên nghiệp",
+    "img": "/img/product/gauteddy/7.jpg"
+  },
+  {
+    "id": "GB10006",
+    "name": "Gấu Teddy Cao Cấp Màu Nâu Cặp Đôi",
+    "price": "1450000",
+    "category": "Gấu Teddy Cao Cấp",
+    "sizes": [
+      "1m7 – 1.400.000đ",
+      "1m5 – 1.100.000đ",
+      "1m1 – 655.000đ"
+    ],
+    "desc": "Gấu teddy cao cấp mềm mại, thiết kế sang trọng.",
+    "material": "Lông thú mềm mại",
+    "cotton": "100% bông nguyên sinh cao cấp",
+    "guide": "Dùng làm gấu ôm, trang trí hoặc quà tặng",
+    "note": "Nên giặt khô hoặc dùng dịch vụ chuyên nghiệp",
+    "img": "/img/product/gauteddy/7.jpg"
+  },{
+    "id": "GB10006",
+    "name": "Gấu Teddy Cao Cấp Màu Nâu Cặp Đôi",
+    "price": "1450000",
+    "category": "Gấu Teddy Cao Cấp",
+    "sizes": [
+      "1m7 – 1.400.000đ",
+      "1m5 – 1.100.000đ",
+      "1m1 – 655.000đ"
+    ],
+    "desc": "Gấu teddy cao cấp mềm mại, thiết kế sang trọng.",
+    "material": "Lông thú mềm mại",
+    "cotton": "100% bông nguyên sinh cao cấp",
+    "guide": "Dùng làm gấu ôm, trang trí hoặc quà tặng",
+    "note": "Nên giặt khô hoặc dùng dịch vụ chuyên nghiệp",
+    "img": "/img/product/gauteddy/7.jpg"
+  },
+  {
+    "id": "GB10006",
+    "name": "Gấu Teddy Cao Cấp Màu Nâu Cặp Đôi",
+    "price": "1450000",
+    "category": "Gấu Teddy Cao Cấp",
+    "sizes": [
+      "1m7 – 1.400.000đ",
+      "1m5 – 1.100.000đ",
+      "1m1 – 655.000đ"
+    ],
+    "desc": "Gấu teddy cao cấp mềm mại, thiết kế sang trọng.",
+    "material": "Lông thú mềm mại",
+    "cotton": "100% bông nguyên sinh cao cấp",
+    "guide": "Dùng làm gấu ôm, trang trí hoặc quà tặng",
+    "note": "Nên giặt khô hoặc dùng dịch vụ chuyên nghiệp",
+    "img": "/img/product/gauteddy/7.jpg"
+  },
+  {
+    "id": "GB10006",
+    "name": "Gấu Teddy Cao Cấp Màu Nâu Cặp Đôi",
+    "price": "1450000",
+    "category": "Gấu Teddy Cao Cấp",
+    "sizes": [
+      "1m7 – 1.400.000đ",
+      "1m5 – 1.100.000đ",
+      "1m1 – 655.000đ"
+    ],
+    "desc": "Gấu teddy cao cấp mềm mại, thiết kế sang trọng.",
+    "material": "Lông thú mềm mại",
+    "cotton": "100% bông nguyên sinh cao cấp",
+    "guide": "Dùng làm gấu ôm, trang trí hoặc quà tặng",
+    "note": "Nên giặt khô hoặc dùng dịch vụ chuyên nghiệp",
+    "img": "/img/product/gauteddy/7.jpg"
+  },
+  {
+    "id": "GB10006",
+    "name": "Gấu Teddy Cao Cấp Màu Nâu Cặp Đôi",
+    "price": "1450000",
+    "category": "Gấu Teddy Cao Cấp",
+    "sizes": [
+      "1m7 – 1.400.000đ",
+      "1m5 – 1.100.000đ",
+      "1m1 – 655.000đ"
+    ],
+    "desc": "Gấu teddy cao cấp mềm mại, thiết kế sang trọng.",
+    "material": "Lông thú mềm mại",
+    "cotton": "100% bông nguyên sinh cao cấp",
+    "guide": "Dùng làm gấu ôm, trang trí hoặc quà tặng",
+    "note": "Nên giặt khô hoặc dùng dịch vụ chuyên nghiệp",
+    "img": "/img/product/gauteddy/7.jpg"
+  },
+  {
+    "id": "GB10006",
+    "name": "Gấu Teddy Cao Cấp Màu Nâu Cặp Đôi",
+    "price": "1450000",
+    "category": "Gấu Teddy Cao Cấp",
+    "sizes": [
+      "1m7 – 1.400.000đ",
+      "1m5 – 1.100.000đ",
+      "1m1 – 655.000đ"
+    ],
+    "desc": "Gấu teddy cao cấp mềm mại, thiết kế sang trọng.",
+    "material": "Lông thú mềm mại",
+    "cotton": "100% bông nguyên sinh cao cấp",
+    "guide": "Dùng làm gấu ôm, trang trí hoặc quà tặng",
+    "note": "Nên giặt khô hoặc dùng dịch vụ chuyên nghiệp",
+    "img": "/img/product/gauteddy/7.jpg"
+  },
+  {
+    "id": "GB10006",
+    "name": "Gấu Teddy Cao Cấp Màu Nâu Cặp Đôi",
+    "price": "1450000",
+    "category": "Gấu Teddy Cao Cấp",
+    "sizes": [
+      "1m7 – 1.400.000đ",
+      "1m5 – 1.100.000đ",
+      "1m1 – 655.000đ"
+    ],
+    "desc": "Gấu teddy cao cấp mềm mại, thiết kế sang trọng.",
+    "material": "Lông thú mềm mại",
+    "cotton": "100% bông nguyên sinh cao cấp",
+    "guide": "Dùng làm gấu ôm, trang trí hoặc quà tặng",
+    "note": "Nên giặt khô hoặc dùng dịch vụ chuyên nghiệp",
+    "img": "/img/product/gauteddy/7.jpg"
+  },
+  {
+    "id": "GB10006",
+    "name": "Gấu Teddy Cao Cấp Màu Nâu Cặp Đôi",
+    "price": "1450000",
+    "category": "Gấu Teddy Cao Cấp",
+    "sizes": [
+      "1m7 – 1.400.000đ",
+      "1m5 – 1.100.000đ",
+      "1m1 – 655.000đ"
+    ],
+    "desc": "Gấu teddy cao cấp mềm mại, thiết kế sang trọng.",
+    "material": "Lông thú mềm mại",
+    "cotton": "100% bông nguyên sinh cao cấp",
+    "guide": "Dùng làm gấu ôm, trang trí hoặc quà tặng",
+    "note": "Nên giặt khô hoặc dùng dịch vụ chuyên nghiệp",
+    "img": "/img/product/gauteddy/7.jpg"
+  },
+  {
+    "id": "GB10006",
+    "name": "Gấu Teddy Cao Cấp Màu Nâu Cặp Đôi",
+    "price": "1450000",
+    "category": "Gấu Teddy Cao Cấp",
+    "sizes": [
+      "1m7 – 1.400.000đ",
+      "1m5 – 1.100.000đ",
+      "1m1 – 655.000đ"
+    ],
+    "desc": "Gấu teddy cao cấp mềm mại, thiết kế sang trọng.",
+    "material": "Lông thú mềm mại",
+    "cotton": "100% bông nguyên sinh cao cấp",
+    "guide": "Dùng làm gấu ôm, trang trí hoặc quà tặng",
+    "note": "Nên giặt khô hoặc dùng dịch vụ chuyên nghiệp",
+    "img": "/img/product/gauteddy/7.jpg"
+  },
+  {
+    "id": "GB10006",
+    "name": "Gấu Teddy Cao Cấp Màu Nâu Cặp Đôi",
+    "price": "1450000",
+    "category": "Gấu Teddy Cao Cấp",
+    "sizes": [
+      "1m7 – 1.400.000đ",
+      "1m5 – 1.100.000đ",
+      "1m1 – 655.000đ"
+    ],
+    "desc": "Gấu teddy cao cấp mềm mại, thiết kế sang trọng.",
+    "material": "Lông thú mềm mại",
+    "cotton": "100% bông nguyên sinh cao cấp",
+    "guide": "Dùng làm gấu ôm, trang trí hoặc quà tặng",
+    "note": "Nên giặt khô hoặc dùng dịch vụ chuyên nghiệp",
+    "img": "/img/product/gauteddy/7.jpg"
+  },
+  {
+    "id": "GB10006",
+    "name": "Gấu Teddy Cao Cấp Màu Nâu Cặp Đôi",
+    "price": "1450000",
+    "category": "Gấu Teddy Cao Cấp",
+    "sizes": [
+      "1m7 – 1.400.000đ",
+      "1m5 – 1.100.000đ",
+      "1m1 – 655.000đ"
+    ],
+    "desc": "Gấu teddy cao cấp mềm mại, thiết kế sang trọng.",
+    "material": "Lông thú mềm mại",
+    "cotton": "100% bông nguyên sinh cao cấp",
+    "guide": "Dùng làm gấu ôm, trang trí hoặc quà tặng",
+    "note": "Nên giặt khô hoặc dùng dịch vụ chuyên nghiệp",
+    "img": "/img/product/gauteddy/7.jpg"
+  },
+  {
+    "id": "GB10006",
+    "name": "Gấu Teddy Cao Cấp Màu Nâu Cặp Đôi",
+    "price": "1450000",
+    "category": "Gấu Teddy Cao Cấp",
+    "sizes": [
+      "1m7 – 1.400.000đ",
+      "1m5 – 1.100.000đ",
+      "1m1 – 655.000đ"
+    ],
+    "desc": "Gấu teddy cao cấp mềm mại, thiết kế sang trọng.",
+    "material": "Lông thú mềm mại",
+    "cotton": "100% bông nguyên sinh cao cấp",
+    "guide": "Dùng làm gấu ôm, trang trí hoặc quà tặng",
+    "note": "Nên giặt khô hoặc dùng dịch vụ chuyên nghiệp",
+    "img": "/img/product/gauteddy/7.jpg"
+  },
+  {
+    "id": "GB10006",
+    "name": "Gấu Teddy Cao Cấp Màu Nâu Cặp Đôi",
+    "price": "1450000",
+    "category": "Gấu Teddy Cao Cấp",
+    "sizes": [
+      "1m7 – 1.400.000đ",
+      "1m5 – 1.100.000đ",
+      "1m1 – 655.000đ"
+    ],
+    "desc": "Gấu teddy cao cấp mềm mại, thiết kế sang trọng.",
+    "material": "Lông thú mềm mại",
+    "cotton": "100% bông nguyên sinh cao cấp",
+    "guide": "Dùng làm gấu ôm, trang trí hoặc quà tặng",
+    "note": "Nên giặt khô hoặc dùng dịch vụ chuyên nghiệp",
+    "img": "/img/product/gauteddy/7.jpg"
+  },
+  {
+    "id": "GB10006",
+    "name": "Gấu Teddy Cao Cấp Màu Nâu Cặp Đôi",
+    "price": "1450000",
+    "category": "Gấu Teddy Cao Cấp",
+    "sizes": [
+      "1m7 – 1.400.000đ",
+      "1m5 – 1.100.000đ",
+      "1m1 – 655.000đ"
+    ],
+    "desc": "Gấu teddy cao cấp mềm mại, thiết kế sang trọng.",
+    "material": "Lông thú mềm mại",
+    "cotton": "100% bông nguyên sinh cao cấp",
+    "guide": "Dùng làm gấu ôm, trang trí hoặc quà tặng",
+    "note": "Nên giặt khô hoặc dùng dịch vụ chuyên nghiệp",
+    "img": "/img/product/gauteddy/7.jpg"
+  },
+  {
+    "id": "GB10006",
+    "name": "Gấu Teddy Cao Cấp Màu Nâu Cặp Đôi",
+    "price": "1450000",
+    "category": "Gấu Teddy Cao Cấp",
+    "sizes": [
+      "1m7 – 1.400.000đ",
+      "1m5 – 1.100.000đ",
+      "1m1 – 655.000đ"
+    ],
+    "desc": "Gấu teddy cao cấp mềm mại, thiết kế sang trọng.",
+    "material": "Lông thú mềm mại",
+    "cotton": "100% bông nguyên sinh cao cấp",
+    "guide": "Dùng làm gấu ôm, trang trí hoặc quà tặng",
+    "note": "Nên giặt khô hoặc dùng dịch vụ chuyên nghiệp",
+    "img": "/img/product/gauteddy/7.jpg"
+  },
+  {
+    "id": "GB10006",
+    "name": "Gấu Teddy Cao Cấp Màu Nâu Cặp Đôi",
+    "price": "1450000",
+    "category": "Gấu Teddy Cao Cấp",
+    "sizes": [
+      "1m7 – 1.400.000đ",
+      "1m5 – 1.100.000đ",
+      "1m1 – 655.000đ"
+    ],
+    "desc": "Gấu teddy cao cấp mềm mại, thiết kế sang trọng.",
+    "material": "Lông thú mềm mại",
+    "cotton": "100% bông nguyên sinh cao cấp",
+    "guide": "Dùng làm gấu ôm, trang trí hoặc quà tặng",
+    "note": "Nên giặt khô hoặc dùng dịch vụ chuyên nghiệp",
+    "img": "/img/product/gauteddy/7.jpg"
+  },
+  {
+    "id": "GB10006",
+    "name": "Gấu Teddy Cao Cấp Màu Nâu Cặp Đôi",
+    "price": "1450000",
+    "category": "Gấu Teddy Cao Cấp",
+    "sizes": [
+      "1m7 – 1.400.000đ",
+      "1m5 – 1.100.000đ",
+      "1m1 – 655.000đ"
+    ],
+    "desc": "Gấu teddy cao cấp mềm mại, thiết kế sang trọng.",
+    "material": "Lông thú mềm mại",
+    "cotton": "100% bông nguyên sinh cao cấp",
+    "guide": "Dùng làm gấu ôm, trang trí hoặc quà tặng",
+    "note": "Nên giặt khô hoặc dùng dịch vụ chuyên nghiệp",
+    "img": "/img/product/gauteddy/7.jpg"
+  },{
+    "id": "GB10006",
+    "name": "Gấu Teddy Cao Cấp Màu Nâu Cặp Đôi",
+    "price": "1450000",
+    "category": "Gấu Teddy Cao Cấp",
+    "sizes": [
+      "1m7 – 1.400.000đ",
+      "1m5 – 1.100.000đ",
+      "1m1 – 655.000đ"
+    ],
+    "desc": "Gấu teddy cao cấp mềm mại, thiết kế sang trọng.",
+    "material": "Lông thú mềm mại",
+    "cotton": "100% bông nguyên sinh cao cấp",
+    "guide": "Dùng làm gấu ôm, trang trí hoặc quà tặng",
+    "note": "Nên giặt khô hoặc dùng dịch vụ chuyên nghiệp",
+    "img": "/img/product/gauteddy/7.jpg"
+  },
+  {
+    "id": "GB10006",
+    "name": "Gấu Teddy Cao Cấp Màu Nâu Cặp Đôi",
+    "price": "1450000",
+    "category": "Gấu Teddy Cao Cấp",
+    "sizes": [
+      "1m7 – 1.400.000đ",
+      "1m5 – 1.100.000đ",
+      "1m1 – 655.000đ"
+    ],
+    "desc": "Gấu teddy cao cấp mềm mại, thiết kế sang trọng.",
+    "material": "Lông thú mềm mại",
+    "cotton": "100% bông nguyên sinh cao cấp",
+    "guide": "Dùng làm gấu ôm, trang trí hoặc quà tặng",
+    "note": "Nên giặt khô hoặc dùng dịch vụ chuyên nghiệp",
+    "img": "/img/product/gauteddy/7.jpg"
+  },{
+    "id": "GB10006",
+    "name": "Gấu Teddy Cao Cấp Màu Nâu Cặp Đôi",
+    "price": "1450000",
+    "category": "Gấu Teddy Cao Cấp",
+    "sizes": [
+      "1m7 – 1.400.000đ",
+      "1m5 – 1.100.000đ",
+      "1m1 – 655.000đ"
+    ],
+    "desc": "Gấu teddy cao cấp mềm mại, thiết kế sang trọng.",
+    "material": "Lông thú mềm mại",
+    "cotton": "100% bông nguyên sinh cao cấp",
+    "guide": "Dùng làm gấu ôm, trang trí hoặc quà tặng",
+    "note": "Nên giặt khô hoặc dùng dịch vụ chuyên nghiệp",
+    "img": "/img/product/gauteddy/7.jpg"
+  },
+  {
+    "id": "GB10006",
+    "name": "Gấu Teddy Cao Cấp Màu Nâu Cặp Đôi",
+    "price": "1450000",
+    "category": "Gấu Teddy Cao Cấp",
+    "sizes": [
+      "1m7 – 1.400.000đ",
+      "1m5 – 1.100.000đ",
+      "1m1 – 655.000đ"
+    ],
+    "desc": "Gấu teddy cao cấp mềm mại, thiết kế sang trọng.",
+    "material": "Lông thú mềm mại",
+    "cotton": "100% bông nguyên sinh cao cấp",
+    "guide": "Dùng làm gấu ôm, trang trí hoặc quà tặng",
+    "note": "Nên giặt khô hoặc dùng dịch vụ chuyên nghiệp",
+    "img": "/img/product/gauteddy/7.jpg"
+  },{
+    "id": "GB10006",
+    "name": "Gấu Teddy Cao Cấp Màu Nâu Cặp Đôi",
+    "price": "1450000",
+    "category": "Gấu Teddy Cao Cấp",
+    "sizes": [
+      "1m7 – 1.400.000đ",
+      "1m5 – 1.100.000đ",
+      "1m1 – 655.000đ"
+    ],
+    "desc": "Gấu teddy cao cấp mềm mại, thiết kế sang trọng.",
+    "material": "Lông thú mềm mại",
+    "cotton": "100% bông nguyên sinh cao cấp",
+    "guide": "Dùng làm gấu ôm, trang trí hoặc quà tặng",
+    "note": "Nên giặt khô hoặc dùng dịch vụ chuyên nghiệp",
+    "img": "/img/product/gauteddy/7.jpg"
+  },
+  {
+    "id": "GB10006",
+    "name": "Gấu Teddy Cao Cấp Màu Nâu Cặp Đôi",
+    "price": "1450000",
+    "category": "Gấu Teddy Cao Cấp",
+    "sizes": [
+      "1m7 – 1.400.000đ",
+      "1m5 – 1.100.000đ",
+      "1m1 – 655.000đ"
+    ],
+    "desc": "Gấu teddy cao cấp mềm mại, thiết kế sang trọng.",
+    "material": "Lông thú mềm mại",
+    "cotton": "100% bông nguyên sinh cao cấp",
+    "guide": "Dùng làm gấu ôm, trang trí hoặc quà tặng",
+    "note": "Nên giặt khô hoặc dùng dịch vụ chuyên nghiệp",
+    "img": "/img/product/gauteddy/7.jpg"
+  },{
+    "id": "GB10006",
+    "name": "Gấu Teddy Cao Cấp Màu Nâu Cặp Đôi",
+    "price": "1450000",
+    "category": "Gấu Teddy Cao Cấp",
+    "sizes": [
+      "1m7 – 1.400.000đ",
+      "1m5 – 1.100.000đ",
+      "1m1 – 655.000đ"
+    ],
+    "desc": "Gấu teddy cao cấp mềm mại, thiết kế sang trọng.",
+    "material": "Lông thú mềm mại",
+    "cotton": "100% bông nguyên sinh cao cấp",
+    "guide": "Dùng làm gấu ôm, trang trí hoặc quà tặng",
+    "note": "Nên giặt khô hoặc dùng dịch vụ chuyên nghiệp",
+    "img": "/img/product/gauteddy/7.jpg"
+  },
+  {
+    "id": "GB10006",
+    "name": "Gấu Teddy Cao Cấp Màu Nâu Cặp Đôi",
+    "price": "1450000",
+    "category": "Gấu Teddy Cao Cấp",
+    "sizes": [
+      "1m7 – 1.400.000đ",
+      "1m5 – 1.100.000đ",
+      "1m1 – 655.000đ"
+    ],
+    "desc": "Gấu teddy cao cấp mềm mại, thiết kế sang trọng.",
+    "material": "Lông thú mềm mại",
+    "cotton": "100% bông nguyên sinh cao cấp",
+    "guide": "Dùng làm gấu ôm, trang trí hoặc quà tặng",
+    "note": "Nên giặt khô hoặc dùng dịch vụ chuyên nghiệp",
+    "img": "/img/product/gauteddy/7.jpg"
+  },{
+    "id": "GB10006",
+    "name": "Gấu Teddy Cao Cấp Màu Nâu Cặp Đôi",
+    "price": "1450000",
+    "category": "Gấu Teddy Cao Cấp",
+    "sizes": [
+      "1m7 – 1.400.000đ",
+      "1m5 – 1.100.000đ",
+      "1m1 – 655.000đ"
+    ],
+    "desc": "Gấu teddy cao cấp mềm mại, thiết kế sang trọng.",
+    "material": "Lông thú mềm mại",
+    "cotton": "100% bông nguyên sinh cao cấp",
+    "guide": "Dùng làm gấu ôm, trang trí hoặc quà tặng",
+    "note": "Nên giặt khô hoặc dùng dịch vụ chuyên nghiệp",
+    "img": "/img/product/gauteddy/7.jpg"
+  },
+  {
+    "id": "GB10006",
+    "name": "Gấu Teddy Cao Cấp Màu Nâu Cặp Đôi",
+    "price": "1450000",
+    "category": "Gấu Teddy Cao Cấp",
+    "sizes": [
+      "1m7 – 1.400.000đ",
+      "1m5 – 1.100.000đ",
+      "1m1 – 655.000đ"
+    ],
+    "desc": "Gấu teddy cao cấp mềm mại, thiết kế sang trọng.",
+    "material": "Lông thú mềm mại",
+    "cotton": "100% bông nguyên sinh cao cấp",
+    "guide": "Dùng làm gấu ôm, trang trí hoặc quà tặng",
+    "note": "Nên giặt khô hoặc dùng dịch vụ chuyên nghiệp",
+    "img": "/img/product/gauteddy/7.jpg"
+  },
+  {
+    "id": "GB10002",
+    "name": "Gấu Hot Trend",
+    "price": "250000",
+    "category": "Gấu Bông Hot Trend",
+    "sizes": [
+      "1m7 – 1.400.000đ",
+      "1m5 – 1.100.000đ",
+      "1m1 – 655.000đ"
+    ],
+    "desc": "Gấu teddy cao cấp mềm mại, thiết kế sang trọng.",
+    "material": "Lông thú mềm mại",
+    "cotton": "100% bông nguyên sinh cao cấp",
+    "guide": "Dùng làm gấu ôm, trang trí hoặc quà tặng",
+    "note": "Nên giặt khô hoặc dùng dịch vụ chuyên nghiệp",
+    "img": "/img/product/gauhottrend/1.jpg"
+  },
+  {
+    "id": "GB10003",
+    "name": "Gấu Bông Nâu Dễ Thương",
+    "price": "750000",
+    "category": "Gấu Bông Dễ Thương",
+    "sizes": [
+      "1m7 – 1.400.000đ",
+      "1m5 – 1.100.000đ",
+      "1m1 – 655.000đ"
+    ],
+    "desc": "Gấu teddy cao cấp mềm mại, thiết kế sang trọng.",
+    "material": "Lông thú mềm mại",
+    "cotton": "100% bông nguyên sinh cao cấp",
+    "guide": "Dùng làm gấu ôm, trang trí hoặc quà tặng",
+    "note": "Nên giặt khô hoặc dùng dịch vụ chuyên nghiệp",
+    "img": "/img/product/gaubongdethuong/1 .jpg"
+  },
+  {
+    "id": "GB10004",
+    "name": "Gấu Bông Tím Dễ Thương ",
+    "price": "850000",
+    "category": "Gấu Bông Dễ Thương",
+    "sizes": [
+      "1m7 – 1.400.000đ",
+      "1m5 – 1.100.000đ",
+      "1m1 – 655.000đ"
+    ],
+    "desc": "Gấu teddy cao cấp mềm mại, thiết kế sang trọng.",
+    "material": "Lông thú mềm mại",
+    "cotton": "100% bông nguyên sinh cao cấp",
+    "guide": "Dùng làm gấu ôm, trang trí hoặc quà tặng",
+    "note": "Nên giặt khô hoặc dùng dịch vụ chuyên nghiệp",
+    "img": "/img/product/gaubongdethuong/2.jpg"
+  },
+  {
+    "id": "GB10005",
+    "name": "Gấu Teddy Trắng Cặp ",
+    "price": "50000",
+    "category": "Gấu Teddy Cao Cấp",
+    "sizes": [
+      "1m7 – 1.400.000đ",
+      "1m5 – 1.100.000đ",
+      "1m1 – 655.000đ"
+    ],
+    "desc": "Gấu teddy cao cấp mềm mại, thiết kế sang trọng.",
+    "material": "Lông thú mềm mại",
+    "cotton": "100% bông nguyên sinh cao cấp",
+    "guide": "Dùng làm gấu ôm, trang trí hoặc quà tặng",
+    "note": "Nên giặt khô hoặc dùng dịch vụ chuyên nghiệp",
+    "img": "/img/product/gauteddy/6.jpg"
+  },
+  {
+    "id": "GB10006",
+    "name": "Gấu Teddy Cao Cấp Màu Nâu Cặp Đôi",
+    "price": "1450000",
+    "category": "Gấu Teddy Cao Cấp",
+    "sizes": [
+      "1m7 – 1.400.000đ",
+      "1m5 – 1.100.000đ",
+      "1m1 – 655.000đ"
+    ],
+    "desc": "Gấu teddy cao cấp mềm mại, thiết kế sang trọng.",
+    "material": "Lông thú mềm mại",
+    "cotton": "100% bông nguyên sinh cao cấp",
+    "guide": "Dùng làm gấu ôm, trang trí hoặc quà tặng",
+    "note": "Nên giặt khô hoặc dùng dịch vụ chuyên nghiệp",
+    "img": "/img/product/gauteddy/7.jpg"
+  },
+  {
+    "id": "GB10006",
+    "name": "Gấu Teddy Cao Cấp Màu Nâu Cặp Đôi",
+    "price": "1450000",
+    "category": "Gấu Teddy Cao Cấp",
+    "sizes": [
+      "1m7 – 1.400.000đ",
+      "1m5 – 1.100.000đ",
+      "1m1 – 655.000đ"
+    ],
+    "desc": "Gấu teddy cao cấp mềm mại, thiết kế sang trọng.",
+    "material": "Lông thú mềm mại",
+    "cotton": "100% bông nguyên sinh cao cấp",
+    "guide": "Dùng làm gấu ôm, trang trí hoặc quà tặng",
+    "note": "Nên giặt khô hoặc dùng dịch vụ chuyên nghiệp",
+    "img": "/img/product/gauteddy/7.jpg"
+  },
+  {
+    "id": "GB10006",
+    "name": "Gấu Teddy Cao Cấp Màu Nâu Cặp Đôi",
+    "price": "1450000",
+    "category": "Gấu Teddy Cao Cấp",
+    "sizes": [
+      "1m7 – 1.400.000đ",
+      "1m5 – 1.100.000đ",
+      "1m1 – 655.000đ"
+    ],
+    "desc": "Gấu teddy cao cấp mềm mại, thiết kế sang trọng.",
+    "material": "Lông thú mềm mại",
+    "cotton": "100% bông nguyên sinh cao cấp",
+    "guide": "Dùng làm gấu ôm, trang trí hoặc quà tặng",
+    "note": "Nên giặt khô hoặc dùng dịch vụ chuyên nghiệp",
+    "img": "/img/product/gauteddy/7.jpg"
+  },
+  {
+    "id": "GB10006",
+    "name": "Gấu Teddy Cao Cấp Màu Nâu Cặp Đôi",
+    "price": "1450000",
+    "category": "Gấu Teddy Cao Cấp",
+    "sizes": [
+      "1m7 – 1.400.000đ",
+      "1m5 – 1.100.000đ",
+      "1m1 – 655.000đ"
+    ],
+    "desc": "Gấu teddy cao cấp mềm mại, thiết kế sang trọng.",
+    "material": "Lông thú mềm mại",
+    "cotton": "100% bông nguyên sinh cao cấp",
+    "guide": "Dùng làm gấu ôm, trang trí hoặc quà tặng",
+    "note": "Nên giặt khô hoặc dùng dịch vụ chuyên nghiệp",
+    "img": "/img/product/gauteddy/7.jpg"
+  },
+  {
+    "id": "GB10006",
+    "name": "Gấu Teddy Cao Cấp Màu Nâu Cặp Đôi",
+    "price": "1450000",
+    "category": "Gấu Teddy Cao Cấp",
+    "sizes": [
+      "1m7 – 1.400.000đ",
+      "1m5 – 1.100.000đ",
+      "1m1 – 655.000đ"
+    ],
+    "desc": "Gấu teddy cao cấp mềm mại, thiết kế sang trọng.",
+    "material": "Lông thú mềm mại",
+    "cotton": "100% bông nguyên sinh cao cấp",
+    "guide": "Dùng làm gấu ôm, trang trí hoặc quà tặng",
+    "note": "Nên giặt khô hoặc dùng dịch vụ chuyên nghiệp",
+    "img": "/img/product/gauteddy/7.jpg"
+  },
+  {
+    "id": "GB10006",
+    "name": "Gấu Teddy Cao Cấp Màu Nâu Cặp Đôi",
+    "price": "1450000",
+    "category": "Gấu Teddy Cao Cấp",
+    "sizes": [
+      "1m7 – 1.400.000đ",
+      "1m5 – 1.100.000đ",
+      "1m1 – 655.000đ"
+    ],
+    "desc": "Gấu teddy cao cấp mềm mại, thiết kế sang trọng.",
+    "material": "Lông thú mềm mại",
+    "cotton": "100% bông nguyên sinh cao cấp",
+    "guide": "Dùng làm gấu ôm, trang trí hoặc quà tặng",
+    "note": "Nên giặt khô hoặc dùng dịch vụ chuyên nghiệp",
+    "img": "/img/product/gauteddy/7.jpg"
+  },
+  {
+    "id": "GB10006",
+    "name": "Gấu Teddy Cao Cấp Màu Nâu Cặp Đôi",
+    "price": "1450000",
+    "category": "Gấu Teddy Cao Cấp",
+    "sizes": [
+      "1m7 – 1.400.000đ",
+      "1m5 – 1.100.000đ",
+      "1m1 – 655.000đ"
+    ],
+    "desc": "Gấu teddy cao cấp mềm mại, thiết kế sang trọng.",
+    "material": "Lông thú mềm mại",
+    "cotton": "100% bông nguyên sinh cao cấp",
+    "guide": "Dùng làm gấu ôm, trang trí hoặc quà tặng",
+    "note": "Nên giặt khô hoặc dùng dịch vụ chuyên nghiệp",
+    "img": "/img/product/gauteddy/7.jpg"
+  },
+  {
+    "id": "GB10006",
+    "name": "Gấu Teddy Cao Cấp Màu Nâu Cặp Đôi",
+    "price": "1450000",
+    "category": "Gấu Teddy Cao Cấp",
+    "sizes": [
+      "1m7 – 1.400.000đ",
+      "1m5 – 1.100.000đ",
+      "1m1 – 655.000đ"
+    ],
+    "desc": "Gấu teddy cao cấp mềm mại, thiết kế sang trọng.",
+    "material": "Lông thú mềm mại",
+    "cotton": "100% bông nguyên sinh cao cấp",
+    "guide": "Dùng làm gấu ôm, trang trí hoặc quà tặng",
+    "note": "Nên giặt khô hoặc dùng dịch vụ chuyên nghiệp",
+    "img": "/img/product/gauteddy/7.jpg"
+  },
+  {
+    "id": "GB10006",
+    "name": "Gấu Teddy Cao Cấp Màu Nâu Cặp Đôi",
+    "price": "1450000",
+    "category": "Gấu Teddy Cao Cấp",
+    "sizes": [
+      "1m7 – 1.400.000đ",
+      "1m5 – 1.100.000đ",
+      "1m1 – 655.000đ"
+    ],
+    "desc": "Gấu teddy cao cấp mềm mại, thiết kế sang trọng.",
+    "material": "Lông thú mềm mại",
+    "cotton": "100% bông nguyên sinh cao cấp",
+    "guide": "Dùng làm gấu ôm, trang trí hoặc quà tặng",
+    "note": "Nên giặt khô hoặc dùng dịch vụ chuyên nghiệp",
+    "img": "/img/product/gauteddy/7.jpg"
+  },
+  {
+    "id": "GB10006",
+    "name": "Gấu Teddy Cao Cấp Màu Nâu Cặp Đôi",
+    "price": "1450000",
+    "category": "Gấu Teddy Cao Cấp",
+    "sizes": [
+      "1m7 – 1.400.000đ",
+      "1m5 – 1.100.000đ",
+      "1m1 – 655.000đ"
+    ],
+    "desc": "Gấu teddy cao cấp mềm mại, thiết kế sang trọng.",
+    "material": "Lông thú mềm mại",
+    "cotton": "100% bông nguyên sinh cao cấp",
+    "guide": "Dùng làm gấu ôm, trang trí hoặc quà tặng",
+    "note": "Nên giặt khô hoặc dùng dịch vụ chuyên nghiệp",
+    "img": "/img/product/gauteddy/7.jpg"
+  },
+  {
+    "id": "GB10006",
+    "name": "Gấu Teddy Cao Cấp Màu Nâu Cặp Đôi",
+    "price": "1450000",
+    "category": "Gấu Teddy Cao Cấp",
+    "sizes": [
+      "1m7 – 1.400.000đ",
+      "1m5 – 1.100.000đ",
+      "1m1 – 655.000đ"
+    ],
+    "desc": "Gấu teddy cao cấp mềm mại, thiết kế sang trọng.",
+    "material": "Lông thú mềm mại",
+    "cotton": "100% bông nguyên sinh cao cấp",
+    "guide": "Dùng làm gấu ôm, trang trí hoặc quà tặng",
+    "note": "Nên giặt khô hoặc dùng dịch vụ chuyên nghiệp",
+    "img": "/img/product/gauteddy/7.jpg"
+  },
+  {
+    "id": "GB10002",
+    "name": "Gấu Hot Trend",
+    "price": "250000",
+    "category": "Gấu Bông Hot Trend",
+    "sizes": [
+      "1m7 – 1.400.000đ",
+      "1m5 – 1.100.000đ",
+      "1m1 – 655.000đ"
+    ],
+    "desc": "Gấu teddy cao cấp mềm mại, thiết kế sang trọng.",
+    "material": "Lông thú mềm mại",
+    "cotton": "100% bông nguyên sinh cao cấp",
+    "guide": "Dùng làm gấu ôm, trang trí hoặc quà tặng",
+    "note": "Nên giặt khô hoặc dùng dịch vụ chuyên nghiệp",
+    "img": "/img/product/gauhottrend/1.jpg"
+  },
+  {
+    "id": "GB10003",
+    "name": "Gấu Bông Nâu Dễ Thương",
+    "price": "750000",
+    "category": "Gấu Bông Dễ Thương",
+    "sizes": [
+      "1m7 – 1.400.000đ",
+      "1m5 – 1.100.000đ",
+      "1m1 – 655.000đ"
+    ],
+    "desc": "Gấu teddy cao cấp mềm mại, thiết kế sang trọng.",
+    "material": "Lông thú mềm mại",
+    "cotton": "100% bông nguyên sinh cao cấp",
+    "guide": "Dùng làm gấu ôm, trang trí hoặc quà tặng",
+    "note": "Nên giặt khô hoặc dùng dịch vụ chuyên nghiệp",
+    "img": "/img/product/gaubongdethuong/1 .jpg"
+  },
+  {
+    "id": "GB10004",
+    "name": "Gấu Bông Tím Dễ Thương ",
+    "price": "850000",
+    "category": "Gấu Bông Dễ Thương",
+    "sizes": [
+      "1m7 – 1.400.000đ",
+      "1m5 – 1.100.000đ",
+      "1m1 – 655.000đ"
+    ],
+    "desc": "Gấu teddy cao cấp mềm mại, thiết kế sang trọng.",
+    "material": "Lông thú mềm mại",
+    "cotton": "100% bông nguyên sinh cao cấp",
+    "guide": "Dùng làm gấu ôm, trang trí hoặc quà tặng",
+    "note": "Nên giặt khô hoặc dùng dịch vụ chuyên nghiệp",
+    "img": "/img/product/gaubongdethuong/2.jpg"
+  },
+  {
+    "id": "GB10005",
+    "name": "Gấu Teddy Trắng Cặp ",
+    "price": "50000",
+    "category": "Gấu Teddy Cao Cấp",
+    "sizes": [
+      "1m7 – 1.400.000đ",
+      "1m5 – 1.100.000đ",
+      "1m1 – 655.000đ"
+    ],
+    "desc": "Gấu teddy cao cấp mềm mại, thiết kế sang trọng.",
+    "material": "Lông thú mềm mại",
+    "cotton": "100% bông nguyên sinh cao cấp",
+    "guide": "Dùng làm gấu ôm, trang trí hoặc quà tặng",
+    "note": "Nên giặt khô hoặc dùng dịch vụ chuyên nghiệp",
+    "img": "/img/product/gauteddy/6.jpg"
+  },
+  {
+    "id": "GB10006",
+    "name": "Gấu Teddy Cao Cấp Màu Nâu Cặp Đôi",
+    "price": "1450000",
+    "category": "Gấu Teddy Cao Cấp",
+    "sizes": [
+      "1m7 – 1.400.000đ",
+      "1m5 – 1.100.000đ",
+      "1m1 – 655.000đ"
+    ],
+    "desc": "Gấu teddy cao cấp mềm mại, thiết kế sang trọng.",
+    "material": "Lông thú mềm mại",
+    "cotton": "100% bông nguyên sinh cao cấp",
+    "guide": "Dùng làm gấu ôm, trang trí hoặc quà tặng",
+    "note": "Nên giặt khô hoặc dùng dịch vụ chuyên nghiệp",
+    "img": "/img/product/gauteddy/7.jpg"
+  },
+  {
+    "id": "GB10006",
+    "name": "Gấu Teddy Cao Cấp Màu Nâu Cặp Đôi",
+    "price": "1450000",
+    "category": "Gấu Teddy Cao Cấp",
+    "sizes": [
+      "1m7 – 1.400.000đ",
+      "1m5 – 1.100.000đ",
+      "1m1 – 655.000đ"
+    ],
+    "desc": "Gấu teddy cao cấp mềm mại, thiết kế sang trọng.",
+    "material": "Lông thú mềm mại",
+    "cotton": "100% bông nguyên sinh cao cấp",
+    "guide": "Dùng làm gấu ôm, trang trí hoặc quà tặng",
+    "note": "Nên giặt khô hoặc dùng dịch vụ chuyên nghiệp",
+    "img": "/img/product/gauteddy/7.jpg"
+  },
+  {
+    "id": "GB10006",
+    "name": "Gấu Teddy Cao Cấp Màu Nâu Cặp Đôi",
+    "price": "1450000",
+    "category": "Gấu Teddy Cao Cấp",
+    "sizes": [
+      "1m7 – 1.400.000đ",
+      "1m5 – 1.100.000đ",
+      "1m1 – 655.000đ"
+    ],
+    "desc": "Gấu teddy cao cấp mềm mại, thiết kế sang trọng.",
+    "material": "Lông thú mềm mại",
+    "cotton": "100% bông nguyên sinh cao cấp",
+    "guide": "Dùng làm gấu ôm, trang trí hoặc quà tặng",
+    "note": "Nên giặt khô hoặc dùng dịch vụ chuyên nghiệp",
+    "img": "/img/product/gauteddy/7.jpg"
+  },
+  {
+    "id": "GB10006",
+    "name": "Gấu Teddy Cao Cấp Màu Nâu Cặp Đôi",
+    "price": "1450000",
+    "category": "Gấu Teddy Cao Cấp",
+    "sizes": [
+      "1m7 – 1.400.000đ",
+      "1m5 – 1.100.000đ",
+      "1m1 – 655.000đ"
+    ],
+    "desc": "Gấu teddy cao cấp mềm mại, thiết kế sang trọng.",
+    "material": "Lông thú mềm mại",
+    "cotton": "100% bông nguyên sinh cao cấp",
+    "guide": "Dùng làm gấu ôm, trang trí hoặc quà tặng",
+    "note": "Nên giặt khô hoặc dùng dịch vụ chuyên nghiệp",
+    "img": "/img/product/gauteddy/7.jpg"
+  },
+  {
+    "id": "GB10006",
+    "name": "Gấu Teddy Cao Cấp Màu Nâu Cặp Đôi",
+    "price": "1450000",
+    "category": "Gấu Teddy Cao Cấp",
+    "sizes": [
+      "1m7 – 1.400.000đ",
+      "1m5 – 1.100.000đ",
+      "1m1 – 655.000đ"
+    ],
+    "desc": "Gấu teddy cao cấp mềm mại, thiết kế sang trọng.",
+    "material": "Lông thú mềm mại",
+    "cotton": "100% bông nguyên sinh cao cấp",
+    "guide": "Dùng làm gấu ôm, trang trí hoặc quà tặng",
+    "note": "Nên giặt khô hoặc dùng dịch vụ chuyên nghiệp",
+    "img": "/img/product/gauteddy/7.jpg"
+  },
+  {
+    "id": "GB10006",
+    "name": "Gấu Teddy Cao Cấp Màu Nâu Cặp Đôi",
+    "price": "1450000",
+    "category": "Gấu Teddy Cao Cấp",
+    "sizes": [
+      "1m7 – 1.400.000đ",
+      "1m5 – 1.100.000đ",
+      "1m1 – 655.000đ"
+    ],
+    "desc": "Gấu teddy cao cấp mềm mại, thiết kế sang trọng.",
+    "material": "Lông thú mềm mại",
+    "cotton": "100% bông nguyên sinh cao cấp",
+    "guide": "Dùng làm gấu ôm, trang trí hoặc quà tặng",
+    "note": "Nên giặt khô hoặc dùng dịch vụ chuyên nghiệp",
+    "img": "/img/product/gauteddy/7.jpg"
+  },
+  {
+    "id": "GB10006",
+    "name": "Gấu Teddy Cao Cấp Màu Nâu Cặp Đôi",
+    "price": "1450000",
+    "category": "Gấu Teddy Cao Cấp",
+    "sizes": [
+      "1m7 – 1.400.000đ",
+      "1m5 – 1.100.000đ",
+      "1m1 – 655.000đ"
+    ],
+    "desc": "Gấu teddy cao cấp mềm mại, thiết kế sang trọng.",
+    "material": "Lông thú mềm mại",
+    "cotton": "100% bông nguyên sinh cao cấp",
+    "guide": "Dùng làm gấu ôm, trang trí hoặc quà tặng",
+    "note": "Nên giặt khô hoặc dùng dịch vụ chuyên nghiệp",
+    "img": "/img/product/gauteddy/7.jpg"
+  },
+  {
+    "id": "GB10006",
+    "name": "Gấu Teddy Cao Cấp Màu Nâu Cặp Đôi",
+    "price": "1450000",
+    "category": "Gấu Teddy Cao Cấp",
+    "sizes": [
+      "1m7 – 1.400.000đ",
+      "1m5 – 1.100.000đ",
+      "1m1 – 655.000đ"
+    ],
+    "desc": "Gấu teddy cao cấp mềm mại, thiết kế sang trọng.",
+    "material": "Lông thú mềm mại",
+    "cotton": "100% bông nguyên sinh cao cấp",
+    "guide": "Dùng làm gấu ôm, trang trí hoặc quà tặng",
+    "note": "Nên giặt khô hoặc dùng dịch vụ chuyên nghiệp",
+    "img": "/img/product/gauteddy/7.jpg"
+  },
+  {
+    "id": "GB10006",
+    "name": "Gấu Teddy Cao Cấp Màu Nâu Cặp Đôi",
+    "price": "1450000",
+    "category": "Gấu Teddy Cao Cấp",
+    "sizes": [
+      "1m7 – 1.400.000đ",
+      "1m5 – 1.100.000đ",
+      "1m1 – 655.000đ"
+    ],
+    "desc": "Gấu teddy cao cấp mềm mại, thiết kế sang trọng.",
+    "material": "Lông thú mềm mại",
+    "cotton": "100% bông nguyên sinh cao cấp",
+    "guide": "Dùng làm gấu ôm, trang trí hoặc quà tặng",
+    "note": "Nên giặt khô hoặc dùng dịch vụ chuyên nghiệp",
+    "img": "/img/product/gauteddy/7.jpg"
+  },
+  {
+    "id": "GB10006",
+    "name": "Gấu Teddy Cao Cấp Màu Nâu Cặp Đôi",
+    "price": "1450000",
+    "category": "Gấu Teddy Cao Cấp",
+    "sizes": [
+      "1m7 – 1.400.000đ",
+      "1m5 – 1.100.000đ",
+      "1m1 – 655.000đ"
+    ],
+    "desc": "Gấu teddy cao cấp mềm mại, thiết kế sang trọng.",
+    "material": "Lông thú mềm mại",
+    "cotton": "100% bông nguyên sinh cao cấp",
+    "guide": "Dùng làm gấu ôm, trang trí hoặc quà tặng",
+    "note": "Nên giặt khô hoặc dùng dịch vụ chuyên nghiệp",
+    "img": "/img/product/gauteddy/7.jpg"
+  },
+  {
+    "id": "GB10006",
+    "name": "Gấu Teddy Cao Cấp Màu Nâu Cặp Đôi",
+    "price": "1450000",
+    "category": "Gấu Teddy Cao Cấp",
+    "sizes": [
+      "1m7 – 1.400.000đ",
+      "1m5 – 1.100.000đ",
+      "1m1 – 655.000đ"
+    ],
+    "desc": "Gấu teddy cao cấp mềm mại, thiết kế sang trọng.",
+    "material": "Lông thú mềm mại",
+    "cotton": "100% bông nguyên sinh cao cấp",
+    "guide": "Dùng làm gấu ôm, trang trí hoặc quà tặng",
+    "note": "Nên giặt khô hoặc dùng dịch vụ chuyên nghiệp",
+    "img": "/img/product/gauteddy/7.jpg"
+  },
+  {
+    "id": "GB10002",
+    "name": "Gấu Hot Trend",
+    "price": "250000",
+    "category": "Gấu Bông Hot Trend",
+    "sizes": [
+      "1m7 – 1.400.000đ",
+      "1m5 – 1.100.000đ",
+      "1m1 – 655.000đ"
+    ],
+    "desc": "Gấu teddy cao cấp mềm mại, thiết kế sang trọng.",
+    "material": "Lông thú mềm mại",
+    "cotton": "100% bông nguyên sinh cao cấp",
+    "guide": "Dùng làm gấu ôm, trang trí hoặc quà tặng",
+    "note": "Nên giặt khô hoặc dùng dịch vụ chuyên nghiệp",
+    "img": "/img/product/gauhottrend/1.jpg"
+  },
+  {
+    "id": "GB10003",
+    "name": "Gấu Bông Nâu Dễ Thương",
+    "price": "750000",
+    "category": "Gấu Bông Dễ Thương",
+    "sizes": [
+      "1m7 – 1.400.000đ",
+      "1m5 – 1.100.000đ",
+      "1m1 – 655.000đ"
+    ],
+    "desc": "Gấu teddy cao cấp mềm mại, thiết kế sang trọng.",
+    "material": "Lông thú mềm mại",
+    "cotton": "100% bông nguyên sinh cao cấp",
+    "guide": "Dùng làm gấu ôm, trang trí hoặc quà tặng",
+    "note": "Nên giặt khô hoặc dùng dịch vụ chuyên nghiệp",
+    "img": "/img/product/gaubongdethuong/1 .jpg"
+  },
+  {
+    "id": "GB10004",
+    "name": "Gấu Bông Tím Dễ Thương ",
+    "price": "850000",
+    "category": "Gấu Bông Dễ Thương",
+    "sizes": [
+      "1m7 – 1.400.000đ",
+      "1m5 – 1.100.000đ",
+      "1m1 – 655.000đ"
+    ],
+    "desc": "Gấu teddy cao cấp mềm mại, thiết kế sang trọng.",
+    "material": "Lông thú mềm mại",
+    "cotton": "100% bông nguyên sinh cao cấp",
+    "guide": "Dùng làm gấu ôm, trang trí hoặc quà tặng",
+    "note": "Nên giặt khô hoặc dùng dịch vụ chuyên nghiệp",
+    "img": "/img/product/gaubongdethuong/2.jpg"
+  },
+  {
+    "id": "GB10005",
+    "name": "Gấu Teddy Trắng Cặp ",
+    "price": "50000",
+    "category": "Gấu Teddy Cao Cấp",
+    "sizes": [
+      "1m7 – 1.400.000đ",
+      "1m5 – 1.100.000đ",
+      "1m1 – 655.000đ"
+    ],
+    "desc": "Gấu teddy cao cấp mềm mại, thiết kế sang trọng.",
+    "material": "Lông thú mềm mại",
+    "cotton": "100% bông nguyên sinh cao cấp",
+    "guide": "Dùng làm gấu ôm, trang trí hoặc quà tặng",
+    "note": "Nên giặt khô hoặc dùng dịch vụ chuyên nghiệp",
+    "img": "/img/product/gauteddy/6.jpg"
+  },
+  {
+    "id": "GB10006",
+    "name": "Gấu Teddy Cao Cấp Màu Nâu Cặp Đôi",
+    "price": "1450000",
+    "category": "Gấu Teddy Cao Cấp",
+    "sizes": [
+      "1m7 – 1.400.000đ",
+      "1m5 – 1.100.000đ",
+      "1m1 – 655.000đ"
+    ],
+    "desc": "Gấu teddy cao cấp mềm mại, thiết kế sang trọng.",
+    "material": "Lông thú mềm mại",
+    "cotton": "100% bông nguyên sinh cao cấp",
+    "guide": "Dùng làm gấu ôm, trang trí hoặc quà tặng",
+    "note": "Nên giặt khô hoặc dùng dịch vụ chuyên nghiệp",
+    "img": "/img/product/gauteddy/7.jpg"
+  },
+  {
+    "id": "GB10006",
+    "name": "Gấu Teddy Cao Cấp Màu Nâu Cặp Đôi",
+    "price": "1450000",
+    "category": "Gấu Teddy Cao Cấp",
+    "sizes": [
+      "1m7 – 1.400.000đ",
+      "1m5 – 1.100.000đ",
+      "1m1 – 655.000đ"
+    ],
+    "desc": "Gấu teddy cao cấp mềm mại, thiết kế sang trọng.",
+    "material": "Lông thú mềm mại",
+    "cotton": "100% bông nguyên sinh cao cấp",
+    "guide": "Dùng làm gấu ôm, trang trí hoặc quà tặng",
+    "note": "Nên giặt khô hoặc dùng dịch vụ chuyên nghiệp",
+    "img": "/img/product/gauteddy/7.jpg"
+  },
+  {
+    "id": "GB10006",
+    "name": "Gấu Teddy Cao Cấp Màu Nâu Cặp Đôi",
+    "price": "1450000",
+    "category": "Gấu Teddy Cao Cấp",
+    "sizes": [
+      "1m7 – 1.400.000đ",
+      "1m5 – 1.100.000đ",
+      "1m1 – 655.000đ"
+    ],
+    "desc": "Gấu teddy cao cấp mềm mại, thiết kế sang trọng.",
+    "material": "Lông thú mềm mại",
+    "cotton": "100% bông nguyên sinh cao cấp",
+    "guide": "Dùng làm gấu ôm, trang trí hoặc quà tặng",
+    "note": "Nên giặt khô hoặc dùng dịch vụ chuyên nghiệp",
+    "img": "/img/product/gauteddy/7.jpg"
+  },
+  {
+    "id": "GB10006",
+    "name": "Gấu Teddy Cao Cấp Màu Nâu Cặp Đôi",
+    "price": "1450000",
+    "category": "Gấu Teddy Cao Cấp",
+    "sizes": [
+      "1m7 – 1.400.000đ",
+      "1m5 – 1.100.000đ",
+      "1m1 – 655.000đ"
+    ],
+    "desc": "Gấu teddy cao cấp mềm mại, thiết kế sang trọng.",
+    "material": "Lông thú mềm mại",
+    "cotton": "100% bông nguyên sinh cao cấp",
+    "guide": "Dùng làm gấu ôm, trang trí hoặc quà tặng",
+    "note": "Nên giặt khô hoặc dùng dịch vụ chuyên nghiệp",
+    "img": "/img/product/gauteddy/7.jpg"
+  },
+  {
+    "id": "GB10006",
+    "name": "Gấu Teddy Cao Cấp Màu Nâu Cặp Đôi",
+    "price": "1450000",
+    "category": "Gấu Teddy Cao Cấp",
+    "sizes": [
+      "1m7 – 1.400.000đ",
+      "1m5 – 1.100.000đ",
+      "1m1 – 655.000đ"
+    ],
+    "desc": "Gấu teddy cao cấp mềm mại, thiết kế sang trọng.",
+    "material": "Lông thú mềm mại",
+    "cotton": "100% bông nguyên sinh cao cấp",
+    "guide": "Dùng làm gấu ôm, trang trí hoặc quà tặng",
+    "note": "Nên giặt khô hoặc dùng dịch vụ chuyên nghiệp",
+    "img": "/img/product/gauteddy/7.jpg"
+  },
+  {
+    "id": "GB10006",
+    "name": "Gấu Teddy Cao Cấp Màu Nâu Cặp Đôi",
+    "price": "1450000",
+    "category": "Gấu Teddy Cao Cấp",
+    "sizes": [
+      "1m7 – 1.400.000đ",
+      "1m5 – 1.100.000đ",
+      "1m1 – 655.000đ"
+    ],
+    "desc": "Gấu teddy cao cấp mềm mại, thiết kế sang trọng.",
+    "material": "Lông thú mềm mại",
+    "cotton": "100% bông nguyên sinh cao cấp",
+    "guide": "Dùng làm gấu ôm, trang trí hoặc quà tặng",
+    "note": "Nên giặt khô hoặc dùng dịch vụ chuyên nghiệp",
+    "img": "/img/product/gauteddy/7.jpg"
+  },
+  {
+    "id": "GB10006",
+    "name": "Gấu Teddy Cao Cấp Màu Nâu Cặp Đôi",
+    "price": "1450000",
+    "category": "Gấu Teddy Cao Cấp",
+    "sizes": [
+      "1m7 – 1.400.000đ",
+      "1m5 – 1.100.000đ",
+      "1m1 – 655.000đ"
+    ],
+    "desc": "Gấu teddy cao cấp mềm mại, thiết kế sang trọng.",
+    "material": "Lông thú mềm mại",
+    "cotton": "100% bông nguyên sinh cao cấp",
+    "guide": "Dùng làm gấu ôm, trang trí hoặc quà tặng",
+    "note": "Nên giặt khô hoặc dùng dịch vụ chuyên nghiệp",
+    "img": "/img/product/gauteddy/7.jpg"
+  },
+  {
+    "id": "GB10006",
+    "name": "Gấu Teddy Cao Cấp Màu Nâu Cặp Đôi",
+    "price": "1450000",
+    "category": "Gấu Teddy Cao Cấp",
+    "sizes": [
+      "1m7 – 1.400.000đ",
+      "1m5 – 1.100.000đ",
+      "1m1 – 655.000đ"
+    ],
+    "desc": "Gấu teddy cao cấp mềm mại, thiết kế sang trọng.",
+    "material": "Lông thú mềm mại",
+    "cotton": "100% bông nguyên sinh cao cấp",
+    "guide": "Dùng làm gấu ôm, trang trí hoặc quà tặng",
+    "note": "Nên giặt khô hoặc dùng dịch vụ chuyên nghiệp",
+    "img": "/img/product/gauteddy/7.jpg"
+  },
+  {
+    "id": "GB10006",
+    "name": "Gấu Teddy Cao Cấp Màu Nâu Cặp Đôi",
+    "price": "1450000",
+    "category": "Gấu Teddy Cao Cấp",
+    "sizes": [
+      "1m7 – 1.400.000đ",
+      "1m5 – 1.100.000đ",
+      "1m1 – 655.000đ"
+    ],
+    "desc": "Gấu teddy cao cấp mềm mại, thiết kế sang trọng.",
+    "material": "Lông thú mềm mại",
+    "cotton": "100% bông nguyên sinh cao cấp",
+    "guide": "Dùng làm gấu ôm, trang trí hoặc quà tặng",
+    "note": "Nên giặt khô hoặc dùng dịch vụ chuyên nghiệp",
+    "img": "/img/product/gauteddy/7.jpg"
+  },
+  {
+    "id": "GB10006",
+    "name": "Gấu Teddy Cao Cấp Màu Nâu Cặp Đôi",
+    "price": "1450000",
+    "category": "Gấu Teddy Cao Cấp",
+    "sizes": [
+      "1m7 – 1.400.000đ",
+      "1m5 – 1.100.000đ",
+      "1m1 – 655.000đ"
+    ],
+    "desc": "Gấu teddy cao cấp mềm mại, thiết kế sang trọng.",
+    "material": "Lông thú mềm mại",
+    "cotton": "100% bông nguyên sinh cao cấp",
+    "guide": "Dùng làm gấu ôm, trang trí hoặc quà tặng",
+    "note": "Nên giặt khô hoặc dùng dịch vụ chuyên nghiệp",
+    "img": "/img/product/gauteddy/7.jpg"
+  },
+  {
+    "id": "GB10006",
+    "name": "Gấu Teddy Cao Cấp Màu Nâu Cặp Đôi",
+    "price": "1450000",
+    "category": "Gấu Teddy Cao Cấp",
+    "sizes": [
+      "1m7 – 1.400.000đ",
+      "1m5 – 1.100.000đ",
+      "1m1 – 655.000đ"
+    ],
+    "desc": "Gấu teddy cao cấp mềm mại, thiết kế sang trọng.",
+    "material": "Lông thú mềm mại",
+    "cotton": "100% bông nguyên sinh cao cấp",
+    "guide": "Dùng làm gấu ôm, trang trí hoặc quà tặng",
+    "note": "Nên giặt khô hoặc dùng dịch vụ chuyên nghiệp",
+    "img": "/img/product/gauteddy/7.jpg"
+  }
+]
+   

@@ -1,0 +1,266 @@
+ <div class="container">
+        <!-- <nav class="banner">
+          <div class="mt-4 p-5 text-white rounded">
+            <br />
+            <h1>GẤU BÔNG YÊU THƯƠNG</h1>
+            <p>创造奇迹是可能的。</p>
+            <img src="/img/banner.png" alt="" class="img-fluid" />
+            <p>电子商务网站</p>
+          </div>
+        </nav> -->
+        <h2 class="title">我们能帮您什么忙？</h2>
+        <nav class="row g-0">
+          <div class="col-lg-4 col-12" style="text-align: center">
+            <div class="card-info-head">
+              <div class="circle">1</div>
+              <div style="font-size: 40px; color: rgb(233, 79, 104)">
+                ABCC 扩展程序
+              </div>
+            </div>
+
+            <div style="font-size: 13px" class="card-info-content">
+              <div class="abbbbc">
+                <p>从多种选择中挑选</p>
+                <p>请从以下选项中选择</p>
+                <p>主题和博客。</p>
+              </div>
+
+              <strong>让您的网站看起来真正专业！</strong>
+            </div>
+
+            <div class="card-info-last">
+              <button type="button">View details</button>
+            </div>
+          </div>
+          <div class="col-lg-4 col-12" style="text-align: center">
+            <div class="card-info-head">
+              <div class="circle">2</div>
+              <div style="font-size: 40px; color: rgb(233, 79, 104)">
+                定制服务
+              </div>
+            </div>
+
+            <div style="font-size: 13px" class="card-info-content">
+              <strong>我们提供精湛的技能——例如：</strong>
+              <ul>
+                <li>设计</li>
+                <li>品牌推广</li>
+                <li>产品开发产品开发</li>
+                <li>设计设计</li>
+              </ul>
+            </div>
+
+            <div class="card-info-last">
+              <button type="button">View details</button>
+            </div>
+          </div>
+          <div class="col-lg-4 col-12" style="text-align: center">
+            <div class="card-info-head">
+              <div class="circle">3</div>
+              <div style="font-size: 40px; color: rgb(233, 79, 104)">
+                编码专家
+              </div>
+            </div>
+
+            <div style="font-size: 13px" class="card-info-content">
+              <div class="abbbbb">
+                <p>Problems?</p>
+                <p>Pesky errors?</p>
+                <p>Bugs?</p>
+                <p>Conflicts?</p>
+              </div>
+
+              <p>我们可以帮您解决！</p>
+              <p>
+                而且我们还会确保您的网站稳<a href="#" style="color: black"
+                  >定运行。</a
+                >
+              </p>
+              <p>我们的团队拥有超过24年的经验！</p>
+            </div>
+
+            <div class="card-info-last">
+              <button type="button">View details</button>
+            </div>
+          </div>
+        </nav>
+
+        <br />
+        <hr class="hr" />
+        <p class="h3">Lastest</p>
+        <nav class="row g-4 pt-3" id="product-list">
+          <!-- <div class="col-lg-3 col-md-6 col-12">
+            <div class="card h-100">
+              <img class="card-img-top" src="/img/product/1.jpg" />
+              <div class="card-body">
+                <p class="card-text">Responsive Slideshow Pro</p>
+                <p class="card-text">
+                  Responsive slideshow module with CKEditor support...
+                </p>
+                <div class="d-flex justify-content-between">
+                  <p class="card-text">$34.00</p>
+                  <a href="#" style="color: rgb(218, 25, 147);text-decoration: none;font-weight: bold;">BUY NOW</a>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-3 col-md-6 col-12">
+            <div class="card h-100">
+              <img class="card-img-top" src="/img/product/1.jpg" />
+              <div class="card-body">
+                <p class="card-text">Responsive Slideshow Pro</p>
+                <p class="card-text">
+                  Responsive slideshow module with CKEditor support...
+                </p>
+                <div class="d-flex justify-content-between">
+                  <p class="card-text">$34.00</p>
+                  <a href="#" style="color: rgb(218, 25, 147);text-decoration: none;font-weight: bold;">BUY NOW</a>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-3 col-md-6 col-12">
+            <div class="card h-100">
+              <img class="card-img-top" src="/img/product/1.jpg" />
+              <div class="card-body">
+                <p class="card-text">Responsive Slideshow Pro</p>
+                <p class="card-text">
+                  Responsive slideshow module with CKEditor support...
+                </p>
+                <div class="d-flex justify-content-between">
+                  <p class="card-text">$34.00</p>
+                  <a href="#" style="color: rgb(218, 25, 147);text-decoration: none;font-weight: bold;">BUY NOW</a>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-3 col-md-6 col-12">
+            <div class="card h-100">
+              <img class="card-img-top" src="/img/product/1.jpg" />
+              <div class="card-body">
+                <p class="card-text">Responsive Slideshow Pro</p>
+                <p class="card-text">
+                  Responsive slideshow module with CKEditor support...
+                </p>
+                <div class="d-flex justify-content-between">
+                  <p class="card-text">$34.00</p>
+                  <a href="#" style="color: rgb(218, 25, 147);text-decoration: none;font-weight: bold;">BUY NOW</a>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-3 col-md-6 col-12">
+            <div class="card h-100">
+              <img class="card-img-top" src="/img/product/1.jpg" />
+              <div class="card-body">
+                <p class="card-text">Responsive Slideshow Pro</p>
+                <p class="card-text">
+                  Responsive slideshow module with CKEditor support...
+                </p>
+                <div class="d-flex justify-content-between">
+                  <p class="card-text">$34.00</p>
+                  <a href="#" style="color: rgb(218, 25, 147);text-decoration: none;font-weight: bold;">BUY NOW</a>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-3 col-md-6 col-12">
+            <div class="card h-100">
+              <img class="card-img-top" src="/img/product/1.jpg" />
+              <div class="card-body">
+                <p class="card-text">Responsive Slideshow Pro</p>
+                <p class="card-text">
+                  Responsive slideshow module with CKEditor support...
+                </p>
+                <div class="d-flex justify-content-between">
+                  <p class="card-text">$34.00</p>
+                  <a href="#" style="color: rgb(218, 25, 147);text-decoration: none;font-weight: bold;">BUY NOW</a>
+                </div>
+              </div>
+            </div>
+          </div> -->
+        </nav>
+        <br />
+        <hr class="hr" />
+        <div>
+          <p class="h4 title">
+            You'll <span class="heart">❤️</span> our customer reviews!
+          </p>
+          <p class="h4 title">
+            FAST and efficient service, lovely cheap rates...
+          </p>
+        </div>
+        <hr class="hr" />
+        <nav>
+          <div id="textCarousel" class="carousel slide" data-bs-ride="carousel">
+            <!-- indicators -->
+
+            <!-- slides -->
+
+            <!-- controls -->
+            <button
+              class="carousel-control-prev"
+              type="button"
+              data-bs-target="#textCarousel"
+              data-bs-slide="prev"
+            >
+              <span class="carousel-control-prev-icon"></span>
+            </button>
+            <div class="carousel-inner">
+              <p class="h3">Customers love us!</p>
+              <div class="carousel-item active">
+                <div class="content">
+                  <p>
+                    "I THANK YOU SOOOOO MUCH! And I am also now happy to have
+                    found someone who can do work for me in the future when I
+                    need anything done. I will truly contact you. Again, thank
+                    you for helping me with this issue. Its so important so that
+                    my customers can order without having a paypal account."
+                    Brian B, beautifulskinwhitening.com
+                  </p>
+                </div>
+              </div>
+
+              <div class="carousel-item">
+                <div class="content">
+                  <p>
+                    "MMOS always exceeds my expectations. It does not matter how
+                    complex a custom project is, they always deliver an elegant,
+                    easy to use solution. They offer great before and after
+                    sales support. They have rescued me many times... I will
+                    certainly do business with them again. I highly recommend
+                    MMOS and their services. Dan From Victoria, Australia"
+                  </p>
+                </div>
+              </div>
+
+              <div class="carousel-item">
+                <div class="content">
+                  <p>
+                    "Tôi là người Việt, Tôi luôn mong muốn tìm người địa phương
+                    để thực hiện dự án Opencart của mình. May mắn thay, tôi đã
+                    tìm được MMOSolution.com. Cảm ơn Phạm Toàn và MMOS team. Các
+                    bạn đã hoàn thành dự án của tôi một cách xuất sắc. Hẹn gặp
+                    lại với dự án mới.Nguyễn Đăng From Hochiminh city, Vietnam"
+                  </p>
+                </div>
+              </div>
+            </div>
+            <button
+              class="carousel-control-next"
+              type="button"
+              data-bs-target="#textCarousel"
+              data-bs-slide="next"
+            >
+              <span class="carousel-control-next-icon"></span>
+            </button>
+          </div>
+        </nav>
+        <hr class="hr" />
+        <img
+          class="img-fluid"
+          src="img/trust.png"
+          alt="New York"
+          style="padding-bottom: 30px"
+        />
+      </div>

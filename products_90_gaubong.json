@@ -1,0 +1,1532 @@
+[
+  {
+    "id": "GB10001",
+    "name": "Gấu Teddy Cao Cấp Màu Trắng",
+    "price": "306.000đ",
+    "category": "Gấu Teddy Cao Cấp",
+    "sizes": [
+      "1m7 – 1.400.000đ",
+      "1m5 – 1.100.000đ",
+      "1m1 – 655.000đ"
+    ],
+    "desc": "Gấu Teddy Cao Cấp mềm mại, thiết kế đẹp mắt, phù hợp làm quà tặng.",
+    "material": "Lông thú mềm mại",
+    "cotton": "100% bông nguyên sinh cao cấp",
+    "guide": "Dùng làm gấu ôm, đồ trang trí hoặc quà tặng",
+    "note": "Nên giặt khô hoặc dùng dịch vụ giặt chuyên nghiệp",
+    "img": "/img/category/product/1.jpg"
+  },
+  {
+    "id": "GB10002",
+    "name": "Gấu Teddy Cao Cấp Màu Nâu",
+    "price": "1.488.000đ",
+    "category": "Gấu Teddy Cao Cấp",
+    "sizes": [
+      "1m7 – 1.400.000đ",
+      "1m5 – 1.100.000đ",
+      "1m1 – 655.000đ"
+    ],
+    "desc": "Gấu Teddy Cao Cấp mềm mại, thiết kế đẹp mắt, phù hợp làm quà tặng.",
+    "material": "Lông thú mềm mại",
+    "cotton": "100% bông nguyên sinh cao cấp",
+    "guide": "Dùng làm gấu ôm, đồ trang trí hoặc quà tặng",
+    "note": "Nên giặt khô hoặc dùng dịch vụ giặt chuyên nghiệp",
+    "img": "/img/category/product/2.jpg"
+  },
+  {
+    "id": "GB10003",
+    "name": "Gấu Teddy Cao Cấp Màu Trắng",
+    "price": "686.000đ",
+    "category": "Gấu Teddy Cao Cấp",
+    "sizes": [
+      "1m7 – 1.400.000đ",
+      "1m5 – 1.100.000đ",
+      "1m1 – 655.000đ"
+    ],
+    "desc": "Gấu Teddy Cao Cấp mềm mại, thiết kế đẹp mắt, phù hợp làm quà tặng.",
+    "material": "Lông thú mềm mại",
+    "cotton": "100% bông nguyên sinh cao cấp",
+    "guide": "Dùng làm gấu ôm, đồ trang trí hoặc quà tặng",
+    "note": "Nên giặt khô hoặc dùng dịch vụ giặt chuyên nghiệp",
+    "img": "/img/category/product/3.jpg"
+  },
+  {
+    "id": "GB10004",
+    "name": "Gấu Teddy Cao Cấp Màu Hồng",
+    "price": "718.000đ",
+    "category": "Gấu Teddy Cao Cấp",
+    "sizes": [
+      "1m7 – 1.400.000đ",
+      "1m5 – 1.100.000đ",
+      "1m1 – 655.000đ"
+    ],
+    "desc": "Gấu Teddy Cao Cấp mềm mại, thiết kế đẹp mắt, phù hợp làm quà tặng.",
+    "material": "Lông thú mềm mại",
+    "cotton": "100% bông nguyên sinh cao cấp",
+    "guide": "Dùng làm gấu ôm, đồ trang trí hoặc quà tặng",
+    "note": "Nên giặt khô hoặc dùng dịch vụ giặt chuyên nghiệp",
+    "img": "/img/category/product/4.jpg"
+  },
+  {
+    "id": "GB10005",
+    "name": "Gấu Teddy Cao Cấp Màu Kem",
+    "price": "1.216.000đ",
+    "category": "Gấu Teddy Cao Cấp",
+    "sizes": [
+      "1m7 – 1.400.000đ",
+      "1m5 – 1.100.000đ",
+      "1m1 – 655.000đ"
+    ],
+    "desc": "Gấu Teddy Cao Cấp mềm mại, thiết kế đẹp mắt, phù hợp làm quà tặng.",
+    "material": "Lông thú mềm mại",
+    "cotton": "100% bông nguyên sinh cao cấp",
+    "guide": "Dùng làm gấu ôm, đồ trang trí hoặc quà tặng",
+    "note": "Nên giặt khô hoặc dùng dịch vụ giặt chuyên nghiệp",
+    "img": "/img/category/product/5.jpg"
+  },
+  {
+    "id": "GB10006",
+    "name": "Gấu Teddy Cao Cấp Màu Vàng",
+    "price": "640.000đ",
+    "category": "Gấu Teddy Cao Cấp",
+    "sizes": [
+      "1m7 – 1.400.000đ",
+      "1m5 – 1.100.000đ",
+      "1m1 – 655.000đ"
+    ],
+    "desc": "Gấu Teddy Cao Cấp mềm mại, thiết kế đẹp mắt, phù hợp làm quà tặng.",
+    "material": "Lông thú mềm mại",
+    "cotton": "100% bông nguyên sinh cao cấp",
+    "guide": "Dùng làm gấu ôm, đồ trang trí hoặc quà tặng",
+    "note": "Nên giặt khô hoặc dùng dịch vụ giặt chuyên nghiệp",
+    "img": "/img/category/product/6.jpg"
+  },
+  {
+    "id": "GB10007",
+    "name": "Gấu Teddy Cao Cấp Màu Socola",
+    "price": "684.000đ",
+    "category": "Gấu Teddy Cao Cấp",
+    "sizes": [
+      "1m7 – 1.400.000đ",
+      "1m5 – 1.100.000đ",
+      "1m1 – 655.000đ"
+    ],
+    "desc": "Gấu Teddy Cao Cấp mềm mại, thiết kế đẹp mắt, phù hợp làm quà tặng.",
+    "material": "Lông thú mềm mại",
+    "cotton": "100% bông nguyên sinh cao cấp",
+    "guide": "Dùng làm gấu ôm, đồ trang trí hoặc quà tặng",
+    "note": "Nên giặt khô hoặc dùng dịch vụ giặt chuyên nghiệp",
+    "img": "/img/category/product/7.jpg"
+  },
+  {
+    "id": "GB10008",
+    "name": "Gấu Teddy Cao Cấp Màu Nâu",
+    "price": "998.000đ",
+    "category": "Gấu Teddy Cao Cấp",
+    "sizes": [
+      "1m7 – 1.400.000đ",
+      "1m5 – 1.100.000đ",
+      "1m1 – 655.000đ"
+    ],
+    "desc": "Gấu Teddy Cao Cấp mềm mại, thiết kế đẹp mắt, phù hợp làm quà tặng.",
+    "material": "Lông thú mềm mại",
+    "cotton": "100% bông nguyên sinh cao cấp",
+    "guide": "Dùng làm gấu ôm, đồ trang trí hoặc quà tặng",
+    "note": "Nên giặt khô hoặc dùng dịch vụ giặt chuyên nghiệp",
+    "img": "/img/category/product/8.jpg"
+  },
+  {
+    "id": "GB10009",
+    "name": "Gấu Teddy Cao Cấp Màu Kem",
+    "price": "772.000đ",
+    "category": "Gấu Teddy Cao Cấp",
+    "sizes": [
+      "1m7 – 1.400.000đ",
+      "1m5 – 1.100.000đ",
+      "1m1 – 655.000đ"
+    ],
+    "desc": "Gấu Teddy Cao Cấp mềm mại, thiết kế đẹp mắt, phù hợp làm quà tặng.",
+    "material": "Lông thú mềm mại",
+    "cotton": "100% bông nguyên sinh cao cấp",
+    "guide": "Dùng làm gấu ôm, đồ trang trí hoặc quà tặng",
+    "note": "Nên giặt khô hoặc dùng dịch vụ giặt chuyên nghiệp",
+    "img": "/img/category/product/9.jpg"
+  },
+  {
+    "id": "GB10010",
+    "name": "Gấu Teddy Cao Cấp Màu Kem",
+    "price": "1.407.000đ",
+    "category": "Gấu Teddy Cao Cấp",
+    "sizes": [
+      "1m7 – 1.400.000đ",
+      "1m5 – 1.100.000đ",
+      "1m1 – 655.000đ"
+    ],
+    "desc": "Gấu Teddy Cao Cấp mềm mại, thiết kế đẹp mắt, phù hợp làm quà tặng.",
+    "material": "Lông thú mềm mại",
+    "cotton": "100% bông nguyên sinh cao cấp",
+    "guide": "Dùng làm gấu ôm, đồ trang trí hoặc quà tặng",
+    "note": "Nên giặt khô hoặc dùng dịch vụ giặt chuyên nghiệp",
+    "img": "/img/category/product/10.jpg"
+  },
+  {
+    "id": "GB10011",
+    "name": "Gấu Teddy Cao Cấp Màu Trắng",
+    "price": "1.203.000đ",
+    "category": "Gấu Teddy Cao Cấp",
+    "sizes": [
+      "1m7 – 1.400.000đ",
+      "1m5 – 1.100.000đ",
+      "1m1 – 655.000đ"
+    ],
+    "desc": "Gấu Teddy Cao Cấp mềm mại, thiết kế đẹp mắt, phù hợp làm quà tặng.",
+    "material": "Lông thú mềm mại",
+    "cotton": "100% bông nguyên sinh cao cấp",
+    "guide": "Dùng làm gấu ôm, đồ trang trí hoặc quà tặng",
+    "note": "Nên giặt khô hoặc dùng dịch vụ giặt chuyên nghiệp",
+    "img": "/img/category/product/1.jpg"
+  },
+  {
+    "id": "GB10012",
+    "name": "Gấu Teddy Cao Cấp Màu Trắng",
+    "price": "546.000đ",
+    "category": "Gấu Teddy Cao Cấp",
+    "sizes": [
+      "1m7 – 1.400.000đ",
+      "1m5 – 1.100.000đ",
+      "1m1 – 655.000đ"
+    ],
+    "desc": "Gấu Teddy Cao Cấp mềm mại, thiết kế đẹp mắt, phù hợp làm quà tặng.",
+    "material": "Lông thú mềm mại",
+    "cotton": "100% bông nguyên sinh cao cấp",
+    "guide": "Dùng làm gấu ôm, đồ trang trí hoặc quà tặng",
+    "note": "Nên giặt khô hoặc dùng dịch vụ giặt chuyên nghiệp",
+    "img": "/img/category/product/2.jpg"
+  },
+  {
+    "id": "GB10013",
+    "name": "Gấu Teddy Cao Cấp Màu Xanh",
+    "price": "763.000đ",
+    "category": "Gấu Teddy Cao Cấp",
+    "sizes": [
+      "1m7 – 1.400.000đ",
+      "1m5 – 1.100.000đ",
+      "1m1 – 655.000đ"
+    ],
+    "desc": "Gấu Teddy Cao Cấp mềm mại, thiết kế đẹp mắt, phù hợp làm quà tặng.",
+    "material": "Lông thú mềm mại",
+    "cotton": "100% bông nguyên sinh cao cấp",
+    "guide": "Dùng làm gấu ôm, đồ trang trí hoặc quà tặng",
+    "note": "Nên giặt khô hoặc dùng dịch vụ giặt chuyên nghiệp",
+    "img": "/img/category/product/3.jpg"
+  },
+  {
+    "id": "GB10014",
+    "name": "Gấu Teddy Cao Cấp Màu Xanh",
+    "price": "578.000đ",
+    "category": "Gấu Teddy Cao Cấp",
+    "sizes": [
+      "1m7 – 1.400.000đ",
+      "1m5 – 1.100.000đ",
+      "1m1 – 655.000đ"
+    ],
+    "desc": "Gấu Teddy Cao Cấp mềm mại, thiết kế đẹp mắt, phù hợp làm quà tặng.",
+    "material": "Lông thú mềm mại",
+    "cotton": "100% bông nguyên sinh cao cấp",
+    "guide": "Dùng làm gấu ôm, đồ trang trí hoặc quà tặng",
+    "note": "Nên giặt khô hoặc dùng dịch vụ giặt chuyên nghiệp",
+    "img": "/img/category/product/4.jpg"
+  },
+  {
+    "id": "GB10015",
+    "name": "Gấu Teddy Cao Cấp Màu Vàng",
+    "price": "1.075.000đ",
+    "category": "Gấu Teddy Cao Cấp",
+    "sizes": [
+      "1m7 – 1.400.000đ",
+      "1m5 – 1.100.000đ",
+      "1m1 – 655.000đ"
+    ],
+    "desc": "Gấu Teddy Cao Cấp mềm mại, thiết kế đẹp mắt, phù hợp làm quà tặng.",
+    "material": "Lông thú mềm mại",
+    "cotton": "100% bông nguyên sinh cao cấp",
+    "guide": "Dùng làm gấu ôm, đồ trang trí hoặc quà tặng",
+    "note": "Nên giặt khô hoặc dùng dịch vụ giặt chuyên nghiệp",
+    "img": "/img/category/product/5.jpg"
+  },
+  {
+    "id": "GB10016",
+    "name": "Gấu Teddy Cao Cấp Màu Xám",
+    "price": "402.000đ",
+    "category": "Gấu Teddy Cao Cấp",
+    "sizes": [
+      "1m7 – 1.400.000đ",
+      "1m5 – 1.100.000đ",
+      "1m1 – 655.000đ"
+    ],
+    "desc": "Gấu Teddy Cao Cấp mềm mại, thiết kế đẹp mắt, phù hợp làm quà tặng.",
+    "material": "Lông thú mềm mại",
+    "cotton": "100% bông nguyên sinh cao cấp",
+    "guide": "Dùng làm gấu ôm, đồ trang trí hoặc quà tặng",
+    "note": "Nên giặt khô hoặc dùng dịch vụ giặt chuyên nghiệp",
+    "img": "/img/category/product/6.jpg"
+  },
+  {
+    "id": "GB10017",
+    "name": "Gấu Teddy Cao Cấp Màu Xanh",
+    "price": "325.000đ",
+    "category": "Gấu Teddy Cao Cấp",
+    "sizes": [
+      "1m7 – 1.400.000đ",
+      "1m5 – 1.100.000đ",
+      "1m1 – 655.000đ"
+    ],
+    "desc": "Gấu Teddy Cao Cấp mềm mại, thiết kế đẹp mắt, phù hợp làm quà tặng.",
+    "material": "Lông thú mềm mại",
+    "cotton": "100% bông nguyên sinh cao cấp",
+    "guide": "Dùng làm gấu ôm, đồ trang trí hoặc quà tặng",
+    "note": "Nên giặt khô hoặc dùng dịch vụ giặt chuyên nghiệp",
+    "img": "/img/category/product/7.jpg"
+  },
+  {
+    "id": "GB10018",
+    "name": "Gấu Teddy Cao Cấp Màu Vàng",
+    "price": "750.000đ",
+    "category": "Gấu Teddy Cao Cấp",
+    "sizes": [
+      "1m7 – 1.400.000đ",
+      "1m5 – 1.100.000đ",
+      "1m1 – 655.000đ"
+    ],
+    "desc": "Gấu Teddy Cao Cấp mềm mại, thiết kế đẹp mắt, phù hợp làm quà tặng.",
+    "material": "Lông thú mềm mại",
+    "cotton": "100% bông nguyên sinh cao cấp",
+    "guide": "Dùng làm gấu ôm, đồ trang trí hoặc quà tặng",
+    "note": "Nên giặt khô hoặc dùng dịch vụ giặt chuyên nghiệp",
+    "img": "/img/category/product/8.jpg"
+  },
+  {
+    "id": "GB10019",
+    "name": "Gấu Teddy Cao Cấp Màu Xám",
+    "price": "633.000đ",
+    "category": "Gấu Teddy Cao Cấp",
+    "sizes": [
+      "1m7 – 1.400.000đ",
+      "1m5 – 1.100.000đ",
+      "1m1 – 655.000đ"
+    ],
+    "desc": "Gấu Teddy Cao Cấp mềm mại, thiết kế đẹp mắt, phù hợp làm quà tặng.",
+    "material": "Lông thú mềm mại",
+    "cotton": "100% bông nguyên sinh cao cấp",
+    "guide": "Dùng làm gấu ôm, đồ trang trí hoặc quà tặng",
+    "note": "Nên giặt khô hoặc dùng dịch vụ giặt chuyên nghiệp",
+    "img": "/img/category/product/9.jpg"
+  },
+  {
+    "id": "GB10020",
+    "name": "Gấu Teddy Cao Cấp Màu Hồng",
+    "price": "1.409.000đ",
+    "category": "Gấu Teddy Cao Cấp",
+    "sizes": [
+      "1m7 – 1.400.000đ",
+      "1m5 – 1.100.000đ",
+      "1m1 – 655.000đ"
+    ],
+    "desc": "Gấu Teddy Cao Cấp mềm mại, thiết kế đẹp mắt, phù hợp làm quà tặng.",
+    "material": "Lông thú mềm mại",
+    "cotton": "100% bông nguyên sinh cao cấp",
+    "guide": "Dùng làm gấu ôm, đồ trang trí hoặc quà tặng",
+    "note": "Nên giặt khô hoặc dùng dịch vụ giặt chuyên nghiệp",
+    "img": "/img/category/product/10.jpg"
+  },
+  {
+    "id": "GB10021",
+    "name": "Gấu Teddy Cao Cấp Màu Hồng",
+    "price": "417.000đ",
+    "category": "Gấu Teddy Cao Cấp",
+    "sizes": [
+      "1m7 – 1.400.000đ",
+      "1m5 – 1.100.000đ",
+      "1m1 – 655.000đ"
+    ],
+    "desc": "Gấu Teddy Cao Cấp mềm mại, thiết kế đẹp mắt, phù hợp làm quà tặng.",
+    "material": "Lông thú mềm mại",
+    "cotton": "100% bông nguyên sinh cao cấp",
+    "guide": "Dùng làm gấu ôm, đồ trang trí hoặc quà tặng",
+    "note": "Nên giặt khô hoặc dùng dịch vụ giặt chuyên nghiệp",
+    "img": "/img/category/product/1.jpg"
+  },
+  {
+    "id": "GB10022",
+    "name": "Gấu Teddy Cao Cấp Màu Kem",
+    "price": "813.000đ",
+    "category": "Gấu Teddy Cao Cấp",
+    "sizes": [
+      "1m7 – 1.400.000đ",
+      "1m5 – 1.100.000đ",
+      "1m1 – 655.000đ"
+    ],
+    "desc": "Gấu Teddy Cao Cấp mềm mại, thiết kế đẹp mắt, phù hợp làm quà tặng.",
+    "material": "Lông thú mềm mại",
+    "cotton": "100% bông nguyên sinh cao cấp",
+    "guide": "Dùng làm gấu ôm, đồ trang trí hoặc quà tặng",
+    "note": "Nên giặt khô hoặc dùng dịch vụ giặt chuyên nghiệp",
+    "img": "/img/category/product/2.jpg"
+  },
+  {
+    "id": "GB10023",
+    "name": "Gấu Teddy Cao Cấp Màu Hồng",
+    "price": "991.000đ",
+    "category": "Gấu Teddy Cao Cấp",
+    "sizes": [
+      "1m7 – 1.400.000đ",
+      "1m5 – 1.100.000đ",
+      "1m1 – 655.000đ"
+    ],
+    "desc": "Gấu Teddy Cao Cấp mềm mại, thiết kế đẹp mắt, phù hợp làm quà tặng.",
+    "material": "Lông thú mềm mại",
+    "cotton": "100% bông nguyên sinh cao cấp",
+    "guide": "Dùng làm gấu ôm, đồ trang trí hoặc quà tặng",
+    "note": "Nên giặt khô hoặc dùng dịch vụ giặt chuyên nghiệp",
+    "img": "/img/category/product/3.jpg"
+  },
+  {
+    "id": "GB10024",
+    "name": "Gấu Teddy Cao Cấp Màu Vàng",
+    "price": "1.466.000đ",
+    "category": "Gấu Teddy Cao Cấp",
+    "sizes": [
+      "1m7 – 1.400.000đ",
+      "1m5 – 1.100.000đ",
+      "1m1 – 655.000đ"
+    ],
+    "desc": "Gấu Teddy Cao Cấp mềm mại, thiết kế đẹp mắt, phù hợp làm quà tặng.",
+    "material": "Lông thú mềm mại",
+    "cotton": "100% bông nguyên sinh cao cấp",
+    "guide": "Dùng làm gấu ôm, đồ trang trí hoặc quà tặng",
+    "note": "Nên giặt khô hoặc dùng dịch vụ giặt chuyên nghiệp",
+    "img": "/img/category/product/4.jpg"
+  },
+  {
+    "id": "GB10025",
+    "name": "Gấu Teddy Cao Cấp Màu Nâu",
+    "price": "217.000đ",
+    "category": "Gấu Teddy Cao Cấp",
+    "sizes": [
+      "1m7 – 1.400.000đ",
+      "1m5 – 1.100.000đ",
+      "1m1 – 655.000đ"
+    ],
+    "desc": "Gấu Teddy Cao Cấp mềm mại, thiết kế đẹp mắt, phù hợp làm quà tặng.",
+    "material": "Lông thú mềm mại",
+    "cotton": "100% bông nguyên sinh cao cấp",
+    "guide": "Dùng làm gấu ôm, đồ trang trí hoặc quà tặng",
+    "note": "Nên giặt khô hoặc dùng dịch vụ giặt chuyên nghiệp",
+    "img": "/img/category/product/5.jpg"
+  },
+  {
+    "id": "GB10026",
+    "name": "Gấu Teddy Cao Cấp Màu Hồng",
+    "price": "770.000đ",
+    "category": "Gấu Teddy Cao Cấp",
+    "sizes": [
+      "1m7 – 1.400.000đ",
+      "1m5 – 1.100.000đ",
+      "1m1 – 655.000đ"
+    ],
+    "desc": "Gấu Teddy Cao Cấp mềm mại, thiết kế đẹp mắt, phù hợp làm quà tặng.",
+    "material": "Lông thú mềm mại",
+    "cotton": "100% bông nguyên sinh cao cấp",
+    "guide": "Dùng làm gấu ôm, đồ trang trí hoặc quà tặng",
+    "note": "Nên giặt khô hoặc dùng dịch vụ giặt chuyên nghiệp",
+    "img": "/img/category/product/6.jpg"
+  },
+  {
+    "id": "GB10027",
+    "name": "Gấu Teddy Cao Cấp Màu Hồng",
+    "price": "1.240.000đ",
+    "category": "Gấu Teddy Cao Cấp",
+    "sizes": [
+      "1m7 – 1.400.000đ",
+      "1m5 – 1.100.000đ",
+      "1m1 – 655.000đ"
+    ],
+    "desc": "Gấu Teddy Cao Cấp mềm mại, thiết kế đẹp mắt, phù hợp làm quà tặng.",
+    "material": "Lông thú mềm mại",
+    "cotton": "100% bông nguyên sinh cao cấp",
+    "guide": "Dùng làm gấu ôm, đồ trang trí hoặc quà tặng",
+    "note": "Nên giặt khô hoặc dùng dịch vụ giặt chuyên nghiệp",
+    "img": "/img/category/product/7.jpg"
+  },
+  {
+    "id": "GB10028",
+    "name": "Gấu Teddy Cao Cấp Màu Kem",
+    "price": "438.000đ",
+    "category": "Gấu Teddy Cao Cấp",
+    "sizes": [
+      "1m7 – 1.400.000đ",
+      "1m5 – 1.100.000đ",
+      "1m1 – 655.000đ"
+    ],
+    "desc": "Gấu Teddy Cao Cấp mềm mại, thiết kế đẹp mắt, phù hợp làm quà tặng.",
+    "material": "Lông thú mềm mại",
+    "cotton": "100% bông nguyên sinh cao cấp",
+    "guide": "Dùng làm gấu ôm, đồ trang trí hoặc quà tặng",
+    "note": "Nên giặt khô hoặc dùng dịch vụ giặt chuyên nghiệp",
+    "img": "/img/category/product/8.jpg"
+  },
+  {
+    "id": "GB10029",
+    "name": "Gấu Teddy Cao Cấp Màu Trắng",
+    "price": "726.000đ",
+    "category": "Gấu Teddy Cao Cấp",
+    "sizes": [
+      "1m7 – 1.400.000đ",
+      "1m5 – 1.100.000đ",
+      "1m1 – 655.000đ"
+    ],
+    "desc": "Gấu Teddy Cao Cấp mềm mại, thiết kế đẹp mắt, phù hợp làm quà tặng.",
+    "material": "Lông thú mềm mại",
+    "cotton": "100% bông nguyên sinh cao cấp",
+    "guide": "Dùng làm gấu ôm, đồ trang trí hoặc quà tặng",
+    "note": "Nên giặt khô hoặc dùng dịch vụ giặt chuyên nghiệp",
+    "img": "/img/category/product/9.jpg"
+  },
+  {
+    "id": "GB10030",
+    "name": "Gấu Teddy Cao Cấp Màu Xám",
+    "price": "1.140.000đ",
+    "category": "Gấu Teddy Cao Cấp",
+    "sizes": [
+      "1m7 – 1.400.000đ",
+      "1m5 – 1.100.000đ",
+      "1m1 – 655.000đ"
+    ],
+    "desc": "Gấu Teddy Cao Cấp mềm mại, thiết kế đẹp mắt, phù hợp làm quà tặng.",
+    "material": "Lông thú mềm mại",
+    "cotton": "100% bông nguyên sinh cao cấp",
+    "guide": "Dùng làm gấu ôm, đồ trang trí hoặc quà tặng",
+    "note": "Nên giặt khô hoặc dùng dịch vụ giặt chuyên nghiệp",
+    "img": "/img/category/product/10.jpg"
+  },
+  {
+    "id": "GB10031",
+    "name": "Gấu Bông Hot Trend Màu Nâu",
+    "price": "1.015.000đ",
+    "category": "Gấu Bông Hot Trend",
+    "sizes": [
+      "1m7 – 1.400.000đ",
+      "1m5 – 1.100.000đ",
+      "1m1 – 655.000đ"
+    ],
+    "desc": "Gấu Bông Hot Trend mềm mại, thiết kế đẹp mắt, phù hợp làm quà tặng.",
+    "material": "Lông thú mềm mại",
+    "cotton": "100% bông nguyên sinh cao cấp",
+    "guide": "Dùng làm gấu ôm, đồ trang trí hoặc quà tặng",
+    "note": "Nên giặt khô hoặc dùng dịch vụ giặt chuyên nghiệp",
+    "img": "/img/category/product/1.jpg"
+  },
+  {
+    "id": "GB10032",
+    "name": "Gấu Bông Hot Trend Màu Kem",
+    "price": "1.420.000đ",
+    "category": "Gấu Bông Hot Trend",
+    "sizes": [
+      "1m7 – 1.400.000đ",
+      "1m5 – 1.100.000đ",
+      "1m1 – 655.000đ"
+    ],
+    "desc": "Gấu Bông Hot Trend mềm mại, thiết kế đẹp mắt, phù hợp làm quà tặng.",
+    "material": "Lông thú mềm mại",
+    "cotton": "100% bông nguyên sinh cao cấp",
+    "guide": "Dùng làm gấu ôm, đồ trang trí hoặc quà tặng",
+    "note": "Nên giặt khô hoặc dùng dịch vụ giặt chuyên nghiệp",
+    "img": "/img/category/product/2.jpg"
+  },
+  {
+    "id": "GB10033",
+    "name": "Gấu Bông Hot Trend Màu Kem",
+    "price": "1.284.000đ",
+    "category": "Gấu Bông Hot Trend",
+    "sizes": [
+      "1m7 – 1.400.000đ",
+      "1m5 – 1.100.000đ",
+      "1m1 – 655.000đ"
+    ],
+    "desc": "Gấu Bông Hot Trend mềm mại, thiết kế đẹp mắt, phù hợp làm quà tặng.",
+    "material": "Lông thú mềm mại",
+    "cotton": "100% bông nguyên sinh cao cấp",
+    "guide": "Dùng làm gấu ôm, đồ trang trí hoặc quà tặng",
+    "note": "Nên giặt khô hoặc dùng dịch vụ giặt chuyên nghiệp",
+    "img": "/img/category/product/3.jpg"
+  },
+  {
+    "id": "GB10034",
+    "name": "Gấu Bông Hot Trend Màu Trắng",
+    "price": "375.000đ",
+    "category": "Gấu Bông Hot Trend",
+    "sizes": [
+      "1m7 – 1.400.000đ",
+      "1m5 – 1.100.000đ",
+      "1m1 – 655.000đ"
+    ],
+    "desc": "Gấu Bông Hot Trend mềm mại, thiết kế đẹp mắt, phù hợp làm quà tặng.",
+    "material": "Lông thú mềm mại",
+    "cotton": "100% bông nguyên sinh cao cấp",
+    "guide": "Dùng làm gấu ôm, đồ trang trí hoặc quà tặng",
+    "note": "Nên giặt khô hoặc dùng dịch vụ giặt chuyên nghiệp",
+    "img": "/img/category/product/4.jpg"
+  },
+  {
+    "id": "GB10035",
+    "name": "Gấu Bông Hot Trend Màu Kem",
+    "price": "1.375.000đ",
+    "category": "Gấu Bông Hot Trend",
+    "sizes": [
+      "1m7 – 1.400.000đ",
+      "1m5 – 1.100.000đ",
+      "1m1 – 655.000đ"
+    ],
+    "desc": "Gấu Bông Hot Trend mềm mại, thiết kế đẹp mắt, phù hợp làm quà tặng.",
+    "material": "Lông thú mềm mại",
+    "cotton": "100% bông nguyên sinh cao cấp",
+    "guide": "Dùng làm gấu ôm, đồ trang trí hoặc quà tặng",
+    "note": "Nên giặt khô hoặc dùng dịch vụ giặt chuyên nghiệp",
+    "img": "/img/category/product/5.jpg"
+  },
+  {
+    "id": "GB10036",
+    "name": "Gấu Bông Hot Trend Màu Vàng",
+    "price": "342.000đ",
+    "category": "Gấu Bông Hot Trend",
+    "sizes": [
+      "1m7 – 1.400.000đ",
+      "1m5 – 1.100.000đ",
+      "1m1 – 655.000đ"
+    ],
+    "desc": "Gấu Bông Hot Trend mềm mại, thiết kế đẹp mắt, phù hợp làm quà tặng.",
+    "material": "Lông thú mềm mại",
+    "cotton": "100% bông nguyên sinh cao cấp",
+    "guide": "Dùng làm gấu ôm, đồ trang trí hoặc quà tặng",
+    "note": "Nên giặt khô hoặc dùng dịch vụ giặt chuyên nghiệp",
+    "img": "/img/category/product/6.jpg"
+  },
+  {
+    "id": "GB10037",
+    "name": "Gấu Bông Hot Trend Màu Hồng",
+    "price": "537.000đ",
+    "category": "Gấu Bông Hot Trend",
+    "sizes": [
+      "1m7 – 1.400.000đ",
+      "1m5 – 1.100.000đ",
+      "1m1 – 655.000đ"
+    ],
+    "desc": "Gấu Bông Hot Trend mềm mại, thiết kế đẹp mắt, phù hợp làm quà tặng.",
+    "material": "Lông thú mềm mại",
+    "cotton": "100% bông nguyên sinh cao cấp",
+    "guide": "Dùng làm gấu ôm, đồ trang trí hoặc quà tặng",
+    "note": "Nên giặt khô hoặc dùng dịch vụ giặt chuyên nghiệp",
+    "img": "/img/category/product/7.jpg"
+  },
+  {
+    "id": "GB10038",
+    "name": "Gấu Bông Hot Trend Màu Nâu",
+    "price": "1.096.000đ",
+    "category": "Gấu Bông Hot Trend",
+    "sizes": [
+      "1m7 – 1.400.000đ",
+      "1m5 – 1.100.000đ",
+      "1m1 – 655.000đ"
+    ],
+    "desc": "Gấu Bông Hot Trend mềm mại, thiết kế đẹp mắt, phù hợp làm quà tặng.",
+    "material": "Lông thú mềm mại",
+    "cotton": "100% bông nguyên sinh cao cấp",
+    "guide": "Dùng làm gấu ôm, đồ trang trí hoặc quà tặng",
+    "note": "Nên giặt khô hoặc dùng dịch vụ giặt chuyên nghiệp",
+    "img": "/img/category/product/8.jpg"
+  },
+  {
+    "id": "GB10039",
+    "name": "Gấu Bông Hot Trend Màu Xanh",
+    "price": "1.137.000đ",
+    "category": "Gấu Bông Hot Trend",
+    "sizes": [
+      "1m7 – 1.400.000đ",
+      "1m5 – 1.100.000đ",
+      "1m1 – 655.000đ"
+    ],
+    "desc": "Gấu Bông Hot Trend mềm mại, thiết kế đẹp mắt, phù hợp làm quà tặng.",
+    "material": "Lông thú mềm mại",
+    "cotton": "100% bông nguyên sinh cao cấp",
+    "guide": "Dùng làm gấu ôm, đồ trang trí hoặc quà tặng",
+    "note": "Nên giặt khô hoặc dùng dịch vụ giặt chuyên nghiệp",
+    "img": "/img/category/product/9.jpg"
+  },
+  {
+    "id": "GB10040",
+    "name": "Gấu Bông Hot Trend Màu Xám",
+    "price": "1.394.000đ",
+    "category": "Gấu Bông Hot Trend",
+    "sizes": [
+      "1m7 – 1.400.000đ",
+      "1m5 – 1.100.000đ",
+      "1m1 – 655.000đ"
+    ],
+    "desc": "Gấu Bông Hot Trend mềm mại, thiết kế đẹp mắt, phù hợp làm quà tặng.",
+    "material": "Lông thú mềm mại",
+    "cotton": "100% bông nguyên sinh cao cấp",
+    "guide": "Dùng làm gấu ôm, đồ trang trí hoặc quà tặng",
+    "note": "Nên giặt khô hoặc dùng dịch vụ giặt chuyên nghiệp",
+    "img": "/img/category/product/10.jpg"
+  },
+  {
+    "id": "GB10041",
+    "name": "Gấu Bông Hot Trend Màu Kem",
+    "price": "751.000đ",
+    "category": "Gấu Bông Hot Trend",
+    "sizes": [
+      "1m7 – 1.400.000đ",
+      "1m5 – 1.100.000đ",
+      "1m1 – 655.000đ"
+    ],
+    "desc": "Gấu Bông Hot Trend mềm mại, thiết kế đẹp mắt, phù hợp làm quà tặng.",
+    "material": "Lông thú mềm mại",
+    "cotton": "100% bông nguyên sinh cao cấp",
+    "guide": "Dùng làm gấu ôm, đồ trang trí hoặc quà tặng",
+    "note": "Nên giặt khô hoặc dùng dịch vụ giặt chuyên nghiệp",
+    "img": "/img/category/product/1.jpg"
+  },
+  {
+    "id": "GB10042",
+    "name": "Gấu Bông Hot Trend Màu Kem",
+    "price": "1.276.000đ",
+    "category": "Gấu Bông Hot Trend",
+    "sizes": [
+      "1m7 – 1.400.000đ",
+      "1m5 – 1.100.000đ",
+      "1m1 – 655.000đ"
+    ],
+    "desc": "Gấu Bông Hot Trend mềm mại, thiết kế đẹp mắt, phù hợp làm quà tặng.",
+    "material": "Lông thú mềm mại",
+    "cotton": "100% bông nguyên sinh cao cấp",
+    "guide": "Dùng làm gấu ôm, đồ trang trí hoặc quà tặng",
+    "note": "Nên giặt khô hoặc dùng dịch vụ giặt chuyên nghiệp",
+    "img": "/img/category/product/2.jpg"
+  },
+  {
+    "id": "GB10043",
+    "name": "Gấu Bông Hot Trend Màu Xám",
+    "price": "1.071.000đ",
+    "category": "Gấu Bông Hot Trend",
+    "sizes": [
+      "1m7 – 1.400.000đ",
+      "1m5 – 1.100.000đ",
+      "1m1 – 655.000đ"
+    ],
+    "desc": "Gấu Bông Hot Trend mềm mại, thiết kế đẹp mắt, phù hợp làm quà tặng.",
+    "material": "Lông thú mềm mại",
+    "cotton": "100% bông nguyên sinh cao cấp",
+    "guide": "Dùng làm gấu ôm, đồ trang trí hoặc quà tặng",
+    "note": "Nên giặt khô hoặc dùng dịch vụ giặt chuyên nghiệp",
+    "img": "/img/category/product/3.jpg"
+  },
+  {
+    "id": "GB10044",
+    "name": "Gấu Bông Hot Trend Màu Nâu",
+    "price": "668.000đ",
+    "category": "Gấu Bông Hot Trend",
+    "sizes": [
+      "1m7 – 1.400.000đ",
+      "1m5 – 1.100.000đ",
+      "1m1 – 655.000đ"
+    ],
+    "desc": "Gấu Bông Hot Trend mềm mại, thiết kế đẹp mắt, phù hợp làm quà tặng.",
+    "material": "Lông thú mềm mại",
+    "cotton": "100% bông nguyên sinh cao cấp",
+    "guide": "Dùng làm gấu ôm, đồ trang trí hoặc quà tặng",
+    "note": "Nên giặt khô hoặc dùng dịch vụ giặt chuyên nghiệp",
+    "img": "/img/category/product/4.jpg"
+  },
+  {
+    "id": "GB10045",
+    "name": "Gấu Bông Hot Trend Màu Xám",
+    "price": "1.222.000đ",
+    "category": "Gấu Bông Hot Trend",
+    "sizes": [
+      "1m7 – 1.400.000đ",
+      "1m5 – 1.100.000đ",
+      "1m1 – 655.000đ"
+    ],
+    "desc": "Gấu Bông Hot Trend mềm mại, thiết kế đẹp mắt, phù hợp làm quà tặng.",
+    "material": "Lông thú mềm mại",
+    "cotton": "100% bông nguyên sinh cao cấp",
+    "guide": "Dùng làm gấu ôm, đồ trang trí hoặc quà tặng",
+    "note": "Nên giặt khô hoặc dùng dịch vụ giặt chuyên nghiệp",
+    "img": "/img/category/product/5.jpg"
+  },
+  {
+    "id": "GB10046",
+    "name": "Gấu Bông Hot Trend Màu Nâu",
+    "price": "611.000đ",
+    "category": "Gấu Bông Hot Trend",
+    "sizes": [
+      "1m7 – 1.400.000đ",
+      "1m5 – 1.100.000đ",
+      "1m1 – 655.000đ"
+    ],
+    "desc": "Gấu Bông Hot Trend mềm mại, thiết kế đẹp mắt, phù hợp làm quà tặng.",
+    "material": "Lông thú mềm mại",
+    "cotton": "100% bông nguyên sinh cao cấp",
+    "guide": "Dùng làm gấu ôm, đồ trang trí hoặc quà tặng",
+    "note": "Nên giặt khô hoặc dùng dịch vụ giặt chuyên nghiệp",
+    "img": "/img/category/product/6.jpg"
+  },
+  {
+    "id": "GB10047",
+    "name": "Gấu Bông Hot Trend Màu Trắng",
+    "price": "705.000đ",
+    "category": "Gấu Bông Hot Trend",
+    "sizes": [
+      "1m7 – 1.400.000đ",
+      "1m5 – 1.100.000đ",
+      "1m1 – 655.000đ"
+    ],
+    "desc": "Gấu Bông Hot Trend mềm mại, thiết kế đẹp mắt, phù hợp làm quà tặng.",
+    "material": "Lông thú mềm mại",
+    "cotton": "100% bông nguyên sinh cao cấp",
+    "guide": "Dùng làm gấu ôm, đồ trang trí hoặc quà tặng",
+    "note": "Nên giặt khô hoặc dùng dịch vụ giặt chuyên nghiệp",
+    "img": "/img/category/product/7.jpg"
+  },
+  {
+    "id": "GB10048",
+    "name": "Gấu Bông Hot Trend Màu Socola",
+    "price": "980.000đ",
+    "category": "Gấu Bông Hot Trend",
+    "sizes": [
+      "1m7 – 1.400.000đ",
+      "1m5 – 1.100.000đ",
+      "1m1 – 655.000đ"
+    ],
+    "desc": "Gấu Bông Hot Trend mềm mại, thiết kế đẹp mắt, phù hợp làm quà tặng.",
+    "material": "Lông thú mềm mại",
+    "cotton": "100% bông nguyên sinh cao cấp",
+    "guide": "Dùng làm gấu ôm, đồ trang trí hoặc quà tặng",
+    "note": "Nên giặt khô hoặc dùng dịch vụ giặt chuyên nghiệp",
+    "img": "/img/category/product/8.jpg"
+  },
+  {
+    "id": "GB10049",
+    "name": "Gấu Bông Hot Trend Màu Trắng",
+    "price": "978.000đ",
+    "category": "Gấu Bông Hot Trend",
+    "sizes": [
+      "1m7 – 1.400.000đ",
+      "1m5 – 1.100.000đ",
+      "1m1 – 655.000đ"
+    ],
+    "desc": "Gấu Bông Hot Trend mềm mại, thiết kế đẹp mắt, phù hợp làm quà tặng.",
+    "material": "Lông thú mềm mại",
+    "cotton": "100% bông nguyên sinh cao cấp",
+    "guide": "Dùng làm gấu ôm, đồ trang trí hoặc quà tặng",
+    "note": "Nên giặt khô hoặc dùng dịch vụ giặt chuyên nghiệp",
+    "img": "/img/category/product/9.jpg"
+  },
+  {
+    "id": "GB10050",
+    "name": "Gấu Bông Hot Trend Màu Socola",
+    "price": "1.208.000đ",
+    "category": "Gấu Bông Hot Trend",
+    "sizes": [
+      "1m7 – 1.400.000đ",
+      "1m5 – 1.100.000đ",
+      "1m1 – 655.000đ"
+    ],
+    "desc": "Gấu Bông Hot Trend mềm mại, thiết kế đẹp mắt, phù hợp làm quà tặng.",
+    "material": "Lông thú mềm mại",
+    "cotton": "100% bông nguyên sinh cao cấp",
+    "guide": "Dùng làm gấu ôm, đồ trang trí hoặc quà tặng",
+    "note": "Nên giặt khô hoặc dùng dịch vụ giặt chuyên nghiệp",
+    "img": "/img/category/product/10.jpg"
+  },
+  {
+    "id": "GB10051",
+    "name": "Gấu Bông Hot Trend Màu Kem",
+    "price": "1.231.000đ",
+    "category": "Gấu Bông Hot Trend",
+    "sizes": [
+      "1m7 – 1.400.000đ",
+      "1m5 – 1.100.000đ",
+      "1m1 – 655.000đ"
+    ],
+    "desc": "Gấu Bông Hot Trend mềm mại, thiết kế đẹp mắt, phù hợp làm quà tặng.",
+    "material": "Lông thú mềm mại",
+    "cotton": "100% bông nguyên sinh cao cấp",
+    "guide": "Dùng làm gấu ôm, đồ trang trí hoặc quà tặng",
+    "note": "Nên giặt khô hoặc dùng dịch vụ giặt chuyên nghiệp",
+    "img": "/img/category/product/1.jpg"
+  },
+  {
+    "id": "GB10052",
+    "name": "Gấu Bông Hot Trend Màu Hồng",
+    "price": "1.136.000đ",
+    "category": "Gấu Bông Hot Trend",
+    "sizes": [
+      "1m7 – 1.400.000đ",
+      "1m5 – 1.100.000đ",
+      "1m1 – 655.000đ"
+    ],
+    "desc": "Gấu Bông Hot Trend mềm mại, thiết kế đẹp mắt, phù hợp làm quà tặng.",
+    "material": "Lông thú mềm mại",
+    "cotton": "100% bông nguyên sinh cao cấp",
+    "guide": "Dùng làm gấu ôm, đồ trang trí hoặc quà tặng",
+    "note": "Nên giặt khô hoặc dùng dịch vụ giặt chuyên nghiệp",
+    "img": "/img/category/product/2.jpg"
+  },
+  {
+    "id": "GB10053",
+    "name": "Gấu Bông Hot Trend Màu Nâu",
+    "price": "1.345.000đ",
+    "category": "Gấu Bông Hot Trend",
+    "sizes": [
+      "1m7 – 1.400.000đ",
+      "1m5 – 1.100.000đ",
+      "1m1 – 655.000đ"
+    ],
+    "desc": "Gấu Bông Hot Trend mềm mại, thiết kế đẹp mắt, phù hợp làm quà tặng.",
+    "material": "Lông thú mềm mại",
+    "cotton": "100% bông nguyên sinh cao cấp",
+    "guide": "Dùng làm gấu ôm, đồ trang trí hoặc quà tặng",
+    "note": "Nên giặt khô hoặc dùng dịch vụ giặt chuyên nghiệp",
+    "img": "/img/category/product/3.jpg"
+  },
+  {
+    "id": "GB10054",
+    "name": "Gấu Bông Hot Trend Màu Trắng",
+    "price": "678.000đ",
+    "category": "Gấu Bông Hot Trend",
+    "sizes": [
+      "1m7 – 1.400.000đ",
+      "1m5 – 1.100.000đ",
+      "1m1 – 655.000đ"
+    ],
+    "desc": "Gấu Bông Hot Trend mềm mại, thiết kế đẹp mắt, phù hợp làm quà tặng.",
+    "material": "Lông thú mềm mại",
+    "cotton": "100% bông nguyên sinh cao cấp",
+    "guide": "Dùng làm gấu ôm, đồ trang trí hoặc quà tặng",
+    "note": "Nên giặt khô hoặc dùng dịch vụ giặt chuyên nghiệp",
+    "img": "/img/category/product/4.jpg"
+  },
+  {
+    "id": "GB10055",
+    "name": "Gấu Bông Hot Trend Màu Kem",
+    "price": "1.473.000đ",
+    "category": "Gấu Bông Hot Trend",
+    "sizes": [
+      "1m7 – 1.400.000đ",
+      "1m5 – 1.100.000đ",
+      "1m1 – 655.000đ"
+    ],
+    "desc": "Gấu Bông Hot Trend mềm mại, thiết kế đẹp mắt, phù hợp làm quà tặng.",
+    "material": "Lông thú mềm mại",
+    "cotton": "100% bông nguyên sinh cao cấp",
+    "guide": "Dùng làm gấu ôm, đồ trang trí hoặc quà tặng",
+    "note": "Nên giặt khô hoặc dùng dịch vụ giặt chuyên nghiệp",
+    "img": "/img/category/product/5.jpg"
+  },
+  {
+    "id": "GB10056",
+    "name": "Gấu Bông Hot Trend Màu Xanh",
+    "price": "639.000đ",
+    "category": "Gấu Bông Hot Trend",
+    "sizes": [
+      "1m7 – 1.400.000đ",
+      "1m5 – 1.100.000đ",
+      "1m1 – 655.000đ"
+    ],
+    "desc": "Gấu Bông Hot Trend mềm mại, thiết kế đẹp mắt, phù hợp làm quà tặng.",
+    "material": "Lông thú mềm mại",
+    "cotton": "100% bông nguyên sinh cao cấp",
+    "guide": "Dùng làm gấu ôm, đồ trang trí hoặc quà tặng",
+    "note": "Nên giặt khô hoặc dùng dịch vụ giặt chuyên nghiệp",
+    "img": "/img/category/product/6.jpg"
+  },
+  {
+    "id": "GB10057",
+    "name": "Gấu Bông Hot Trend Màu Nâu",
+    "price": "1.074.000đ",
+    "category": "Gấu Bông Hot Trend",
+    "sizes": [
+      "1m7 – 1.400.000đ",
+      "1m5 – 1.100.000đ",
+      "1m1 – 655.000đ"
+    ],
+    "desc": "Gấu Bông Hot Trend mềm mại, thiết kế đẹp mắt, phù hợp làm quà tặng.",
+    "material": "Lông thú mềm mại",
+    "cotton": "100% bông nguyên sinh cao cấp",
+    "guide": "Dùng làm gấu ôm, đồ trang trí hoặc quà tặng",
+    "note": "Nên giặt khô hoặc dùng dịch vụ giặt chuyên nghiệp",
+    "img": "/img/category/product/7.jpg"
+  },
+  {
+    "id": "GB10058",
+    "name": "Gấu Bông Hot Trend Màu Kem",
+    "price": "1.362.000đ",
+    "category": "Gấu Bông Hot Trend",
+    "sizes": [
+      "1m7 – 1.400.000đ",
+      "1m5 – 1.100.000đ",
+      "1m1 – 655.000đ"
+    ],
+    "desc": "Gấu Bông Hot Trend mềm mại, thiết kế đẹp mắt, phù hợp làm quà tặng.",
+    "material": "Lông thú mềm mại",
+    "cotton": "100% bông nguyên sinh cao cấp",
+    "guide": "Dùng làm gấu ôm, đồ trang trí hoặc quà tặng",
+    "note": "Nên giặt khô hoặc dùng dịch vụ giặt chuyên nghiệp",
+    "img": "/img/category/product/8.jpg"
+  },
+  {
+    "id": "GB10059",
+    "name": "Gấu Bông Hot Trend Màu Xám",
+    "price": "1.378.000đ",
+    "category": "Gấu Bông Hot Trend",
+    "sizes": [
+      "1m7 – 1.400.000đ",
+      "1m5 – 1.100.000đ",
+      "1m1 – 655.000đ"
+    ],
+    "desc": "Gấu Bông Hot Trend mềm mại, thiết kế đẹp mắt, phù hợp làm quà tặng.",
+    "material": "Lông thú mềm mại",
+    "cotton": "100% bông nguyên sinh cao cấp",
+    "guide": "Dùng làm gấu ôm, đồ trang trí hoặc quà tặng",
+    "note": "Nên giặt khô hoặc dùng dịch vụ giặt chuyên nghiệp",
+    "img": "/img/category/product/9.jpg"
+  },
+  {
+    "id": "GB10060",
+    "name": "Gấu Bông Hot Trend Màu Kem",
+    "price": "280.000đ",
+    "category": "Gấu Bông Hot Trend",
+    "sizes": [
+      "1m7 – 1.400.000đ",
+      "1m5 – 1.100.000đ",
+      "1m1 – 655.000đ"
+    ],
+    "desc": "Gấu Bông Hot Trend mềm mại, thiết kế đẹp mắt, phù hợp làm quà tặng.",
+    "material": "Lông thú mềm mại",
+    "cotton": "100% bông nguyên sinh cao cấp",
+    "guide": "Dùng làm gấu ôm, đồ trang trí hoặc quà tặng",
+    "note": "Nên giặt khô hoặc dùng dịch vụ giặt chuyên nghiệp",
+    "img": "/img/category/product/10.jpg"
+  },
+  {
+    "id": "GB10061",
+    "name": "Gấu Bông Dễ Thương Màu Xám",
+    "price": "1.366.000đ",
+    "category": "Gấu Bông Dễ Thương",
+    "sizes": [
+      "1m7 – 1.400.000đ",
+      "1m5 – 1.100.000đ",
+      "1m1 – 655.000đ"
+    ],
+    "desc": "Gấu Bông Dễ Thương mềm mại, thiết kế đẹp mắt, phù hợp làm quà tặng.",
+    "material": "Lông thú mềm mại",
+    "cotton": "100% bông nguyên sinh cao cấp",
+    "guide": "Dùng làm gấu ôm, đồ trang trí hoặc quà tặng",
+    "note": "Nên giặt khô hoặc dùng dịch vụ giặt chuyên nghiệp",
+    "img": "/img/category/product/1.jpg"
+  },
+  {
+    "id": "GB10062",
+    "name": "Gấu Bông Dễ Thương Màu Xám",
+    "price": "218.000đ",
+    "category": "Gấu Bông Dễ Thương",
+    "sizes": [
+      "1m7 – 1.400.000đ",
+      "1m5 – 1.100.000đ",
+      "1m1 – 655.000đ"
+    ],
+    "desc": "Gấu Bông Dễ Thương mềm mại, thiết kế đẹp mắt, phù hợp làm quà tặng.",
+    "material": "Lông thú mềm mại",
+    "cotton": "100% bông nguyên sinh cao cấp",
+    "guide": "Dùng làm gấu ôm, đồ trang trí hoặc quà tặng",
+    "note": "Nên giặt khô hoặc dùng dịch vụ giặt chuyên nghiệp",
+    "img": "/img/category/product/2.jpg"
+  },
+  {
+    "id": "GB10063",
+    "name": "Gấu Bông Dễ Thương Màu Xanh",
+    "price": "1.089.000đ",
+    "category": "Gấu Bông Dễ Thương",
+    "sizes": [
+      "1m7 – 1.400.000đ",
+      "1m5 – 1.100.000đ",
+      "1m1 – 655.000đ"
+    ],
+    "desc": "Gấu Bông Dễ Thương mềm mại, thiết kế đẹp mắt, phù hợp làm quà tặng.",
+    "material": "Lông thú mềm mại",
+    "cotton": "100% bông nguyên sinh cao cấp",
+    "guide": "Dùng làm gấu ôm, đồ trang trí hoặc quà tặng",
+    "note": "Nên giặt khô hoặc dùng dịch vụ giặt chuyên nghiệp",
+    "img": "/img/category/product/3.jpg"
+  },
+  {
+    "id": "GB10064",
+    "name": "Gấu Bông Dễ Thương Màu Vàng",
+    "price": "316.000đ",
+    "category": "Gấu Bông Dễ Thương",
+    "sizes": [
+      "1m7 – 1.400.000đ",
+      "1m5 – 1.100.000đ",
+      "1m1 – 655.000đ"
+    ],
+    "desc": "Gấu Bông Dễ Thương mềm mại, thiết kế đẹp mắt, phù hợp làm quà tặng.",
+    "material": "Lông thú mềm mại",
+    "cotton": "100% bông nguyên sinh cao cấp",
+    "guide": "Dùng làm gấu ôm, đồ trang trí hoặc quà tặng",
+    "note": "Nên giặt khô hoặc dùng dịch vụ giặt chuyên nghiệp",
+    "img": "/img/category/product/4.jpg"
+  },
+  {
+    "id": "GB10065",
+    "name": "Gấu Bông Dễ Thương Màu Trắng",
+    "price": "1.033.000đ",
+    "category": "Gấu Bông Dễ Thương",
+    "sizes": [
+      "1m7 – 1.400.000đ",
+      "1m5 – 1.100.000đ",
+      "1m1 – 655.000đ"
+    ],
+    "desc": "Gấu Bông Dễ Thương mềm mại, thiết kế đẹp mắt, phù hợp làm quà tặng.",
+    "material": "Lông thú mềm mại",
+    "cotton": "100% bông nguyên sinh cao cấp",
+    "guide": "Dùng làm gấu ôm, đồ trang trí hoặc quà tặng",
+    "note": "Nên giặt khô hoặc dùng dịch vụ giặt chuyên nghiệp",
+    "img": "/img/category/product/5.jpg"
+  },
+  {
+    "id": "GB10066",
+    "name": "Gấu Bông Dễ Thương Màu Vàng",
+    "price": "236.000đ",
+    "category": "Gấu Bông Dễ Thương",
+    "sizes": [
+      "1m7 – 1.400.000đ",
+      "1m5 – 1.100.000đ",
+      "1m1 – 655.000đ"
+    ],
+    "desc": "Gấu Bông Dễ Thương mềm mại, thiết kế đẹp mắt, phù hợp làm quà tặng.",
+    "material": "Lông thú mềm mại",
+    "cotton": "100% bông nguyên sinh cao cấp",
+    "guide": "Dùng làm gấu ôm, đồ trang trí hoặc quà tặng",
+    "note": "Nên giặt khô hoặc dùng dịch vụ giặt chuyên nghiệp",
+    "img": "/img/category/product/6.jpg"
+  },
+  {
+    "id": "GB10067",
+    "name": "Gấu Bông Dễ Thương Màu Kem",
+    "price": "862.000đ",
+    "category": "Gấu Bông Dễ Thương",
+    "sizes": [
+      "1m7 – 1.400.000đ",
+      "1m5 – 1.100.000đ",
+      "1m1 – 655.000đ"
+    ],
+    "desc": "Gấu Bông Dễ Thương mềm mại, thiết kế đẹp mắt, phù hợp làm quà tặng.",
+    "material": "Lông thú mềm mại",
+    "cotton": "100% bông nguyên sinh cao cấp",
+    "guide": "Dùng làm gấu ôm, đồ trang trí hoặc quà tặng",
+    "note": "Nên giặt khô hoặc dùng dịch vụ giặt chuyên nghiệp",
+    "img": "/img/category/product/7.jpg"
+  },
+  {
+    "id": "GB10068",
+    "name": "Gấu Bông Dễ Thương Màu Xanh",
+    "price": "266.000đ",
+    "category": "Gấu Bông Dễ Thương",
+    "sizes": [
+      "1m7 – 1.400.000đ",
+      "1m5 – 1.100.000đ",
+      "1m1 – 655.000đ"
+    ],
+    "desc": "Gấu Bông Dễ Thương mềm mại, thiết kế đẹp mắt, phù hợp làm quà tặng.",
+    "material": "Lông thú mềm mại",
+    "cotton": "100% bông nguyên sinh cao cấp",
+    "guide": "Dùng làm gấu ôm, đồ trang trí hoặc quà tặng",
+    "note": "Nên giặt khô hoặc dùng dịch vụ giặt chuyên nghiệp",
+    "img": "/img/category/product/8.jpg"
+  },
+  {
+    "id": "GB10069",
+    "name": "Gấu Bông Dễ Thương Màu Xanh",
+    "price": "601.000đ",
+    "category": "Gấu Bông Dễ Thương",
+    "sizes": [
+      "1m7 – 1.400.000đ",
+      "1m5 – 1.100.000đ",
+      "1m1 – 655.000đ"
+    ],
+    "desc": "Gấu Bông Dễ Thương mềm mại, thiết kế đẹp mắt, phù hợp làm quà tặng.",
+    "material": "Lông thú mềm mại",
+    "cotton": "100% bông nguyên sinh cao cấp",
+    "guide": "Dùng làm gấu ôm, đồ trang trí hoặc quà tặng",
+    "note": "Nên giặt khô hoặc dùng dịch vụ giặt chuyên nghiệp",
+    "img": "/img/category/product/9.jpg"
+  },
+  {
+    "id": "GB10070",
+    "name": "Gấu Bông Dễ Thương Màu Xanh",
+    "price": "299.000đ",
+    "category": "Gấu Bông Dễ Thương",
+    "sizes": [
+      "1m7 – 1.400.000đ",
+      "1m5 – 1.100.000đ",
+      "1m1 – 655.000đ"
+    ],
+    "desc": "Gấu Bông Dễ Thương mềm mại, thiết kế đẹp mắt, phù hợp làm quà tặng.",
+    "material": "Lông thú mềm mại",
+    "cotton": "100% bông nguyên sinh cao cấp",
+    "guide": "Dùng làm gấu ôm, đồ trang trí hoặc quà tặng",
+    "note": "Nên giặt khô hoặc dùng dịch vụ giặt chuyên nghiệp",
+    "img": "/img/category/product/10.jpg"
+  },
+  {
+    "id": "GB10071",
+    "name": "Gấu Bông Dễ Thương Màu Xám",
+    "price": "907.000đ",
+    "category": "Gấu Bông Dễ Thương",
+    "sizes": [
+      "1m7 – 1.400.000đ",
+      "1m5 – 1.100.000đ",
+      "1m1 – 655.000đ"
+    ],
+    "desc": "Gấu Bông Dễ Thương mềm mại, thiết kế đẹp mắt, phù hợp làm quà tặng.",
+    "material": "Lông thú mềm mại",
+    "cotton": "100% bông nguyên sinh cao cấp",
+    "guide": "Dùng làm gấu ôm, đồ trang trí hoặc quà tặng",
+    "note": "Nên giặt khô hoặc dùng dịch vụ giặt chuyên nghiệp",
+    "img": "/img/category/product/1.jpg"
+  },
+  {
+    "id": "GB10072",
+    "name": "Gấu Bông Dễ Thương Màu Nâu",
+    "price": "592.000đ",
+    "category": "Gấu Bông Dễ Thương",
+    "sizes": [
+      "1m7 – 1.400.000đ",
+      "1m5 – 1.100.000đ",
+      "1m1 – 655.000đ"
+    ],
+    "desc": "Gấu Bông Dễ Thương mềm mại, thiết kế đẹp mắt, phù hợp làm quà tặng.",
+    "material": "Lông thú mềm mại",
+    "cotton": "100% bông nguyên sinh cao cấp",
+    "guide": "Dùng làm gấu ôm, đồ trang trí hoặc quà tặng",
+    "note": "Nên giặt khô hoặc dùng dịch vụ giặt chuyên nghiệp",
+    "img": "/img/category/product/2.jpg"
+  },
+  {
+    "id": "GB10073",
+    "name": "Gấu Bông Dễ Thương Màu Socola",
+    "price": "1.494.000đ",
+    "category": "Gấu Bông Dễ Thương",
+    "sizes": [
+      "1m7 – 1.400.000đ",
+      "1m5 – 1.100.000đ",
+      "1m1 – 655.000đ"
+    ],
+    "desc": "Gấu Bông Dễ Thương mềm mại, thiết kế đẹp mắt, phù hợp làm quà tặng.",
+    "material": "Lông thú mềm mại",
+    "cotton": "100% bông nguyên sinh cao cấp",
+    "guide": "Dùng làm gấu ôm, đồ trang trí hoặc quà tặng",
+    "note": "Nên giặt khô hoặc dùng dịch vụ giặt chuyên nghiệp",
+    "img": "/img/category/product/3.jpg"
+  },
+  {
+    "id": "GB10074",
+    "name": "Gấu Bông Dễ Thương Màu Socola",
+    "price": "272.000đ",
+    "category": "Gấu Bông Dễ Thương",
+    "sizes": [
+      "1m7 – 1.400.000đ",
+      "1m5 – 1.100.000đ",
+      "1m1 – 655.000đ"
+    ],
+    "desc": "Gấu Bông Dễ Thương mềm mại, thiết kế đẹp mắt, phù hợp làm quà tặng.",
+    "material": "Lông thú mềm mại",
+    "cotton": "100% bông nguyên sinh cao cấp",
+    "guide": "Dùng làm gấu ôm, đồ trang trí hoặc quà tặng",
+    "note": "Nên giặt khô hoặc dùng dịch vụ giặt chuyên nghiệp",
+    "img": "/img/category/product/4.jpg"
+  },
+  {
+    "id": "GB10075",
+    "name": "Gấu Bông Dễ Thương Màu Vàng",
+    "price": "1.233.000đ",
+    "category": "Gấu Bông Dễ Thương",
+    "sizes": [
+      "1m7 – 1.400.000đ",
+      "1m5 – 1.100.000đ",
+      "1m1 – 655.000đ"
+    ],
+    "desc": "Gấu Bông Dễ Thương mềm mại, thiết kế đẹp mắt, phù hợp làm quà tặng.",
+    "material": "Lông thú mềm mại",
+    "cotton": "100% bông nguyên sinh cao cấp",
+    "guide": "Dùng làm gấu ôm, đồ trang trí hoặc quà tặng",
+    "note": "Nên giặt khô hoặc dùng dịch vụ giặt chuyên nghiệp",
+    "img": "/img/category/product/5.jpg"
+  },
+  {
+    "id": "GB10076",
+    "name": "Gấu Bông Dễ Thương Màu Kem",
+    "price": "1.129.000đ",
+    "category": "Gấu Bông Dễ Thương",
+    "sizes": [
+      "1m7 – 1.400.000đ",
+      "1m5 – 1.100.000đ",
+      "1m1 – 655.000đ"
+    ],
+    "desc": "Gấu Bông Dễ Thương mềm mại, thiết kế đẹp mắt, phù hợp làm quà tặng.",
+    "material": "Lông thú mềm mại",
+    "cotton": "100% bông nguyên sinh cao cấp",
+    "guide": "Dùng làm gấu ôm, đồ trang trí hoặc quà tặng",
+    "note": "Nên giặt khô hoặc dùng dịch vụ giặt chuyên nghiệp",
+    "img": "/img/category/product/6.jpg"
+  },
+  {
+    "id": "GB10077",
+    "name": "Gấu Bông Dễ Thương Màu Hồng",
+    "price": "1.041.000đ",
+    "category": "Gấu Bông Dễ Thương",
+    "sizes": [
+      "1m7 – 1.400.000đ",
+      "1m5 – 1.100.000đ",
+      "1m1 – 655.000đ"
+    ],
+    "desc": "Gấu Bông Dễ Thương mềm mại, thiết kế đẹp mắt, phù hợp làm quà tặng.",
+    "material": "Lông thú mềm mại",
+    "cotton": "100% bông nguyên sinh cao cấp",
+    "guide": "Dùng làm gấu ôm, đồ trang trí hoặc quà tặng",
+    "note": "Nên giặt khô hoặc dùng dịch vụ giặt chuyên nghiệp",
+    "img": "/img/category/product/7.jpg"
+  },
+  {
+    "id": "GB10078",
+    "name": "Gấu Bông Dễ Thương Màu Nâu",
+    "price": "501.000đ",
+    "category": "Gấu Bông Dễ Thương",
+    "sizes": [
+      "1m7 – 1.400.000đ",
+      "1m5 – 1.100.000đ",
+      "1m1 – 655.000đ"
+    ],
+    "desc": "Gấu Bông Dễ Thương mềm mại, thiết kế đẹp mắt, phù hợp làm quà tặng.",
+    "material": "Lông thú mềm mại",
+    "cotton": "100% bông nguyên sinh cao cấp",
+    "guide": "Dùng làm gấu ôm, đồ trang trí hoặc quà tặng",
+    "note": "Nên giặt khô hoặc dùng dịch vụ giặt chuyên nghiệp",
+    "img": "/img/category/product/8.jpg"
+  },
+  {
+    "id": "GB10079",
+    "name": "Gấu Bông Dễ Thương Màu Socola",
+    "price": "1.207.000đ",
+    "category": "Gấu Bông Dễ Thương",
+    "sizes": [
+      "1m7 – 1.400.000đ",
+      "1m5 – 1.100.000đ",
+      "1m1 – 655.000đ"
+    ],
+    "desc": "Gấu Bông Dễ Thương mềm mại, thiết kế đẹp mắt, phù hợp làm quà tặng.",
+    "material": "Lông thú mềm mại",
+    "cotton": "100% bông nguyên sinh cao cấp",
+    "guide": "Dùng làm gấu ôm, đồ trang trí hoặc quà tặng",
+    "note": "Nên giặt khô hoặc dùng dịch vụ giặt chuyên nghiệp",
+    "img": "/img/category/product/9.jpg"
+  },
+  {
+    "id": "GB10080",
+    "name": "Gấu Bông Dễ Thương Màu Kem",
+    "price": "1.009.000đ",
+    "category": "Gấu Bông Dễ Thương",
+    "sizes": [
+      "1m7 – 1.400.000đ",
+      "1m5 – 1.100.000đ",
+      "1m1 – 655.000đ"
+    ],
+    "desc": "Gấu Bông Dễ Thương mềm mại, thiết kế đẹp mắt, phù hợp làm quà tặng.",
+    "material": "Lông thú mềm mại",
+    "cotton": "100% bông nguyên sinh cao cấp",
+    "guide": "Dùng làm gấu ôm, đồ trang trí hoặc quà tặng",
+    "note": "Nên giặt khô hoặc dùng dịch vụ giặt chuyên nghiệp",
+    "img": "/img/category/product/10.jpg"
+  },
+  {
+    "id": "GB10081",
+    "name": "Gấu Bông Dễ Thương Màu Nâu",
+    "price": "644.000đ",
+    "category": "Gấu Bông Dễ Thương",
+    "sizes": [
+      "1m7 – 1.400.000đ",
+      "1m5 – 1.100.000đ",
+      "1m1 – 655.000đ"
+    ],
+    "desc": "Gấu Bông Dễ Thương mềm mại, thiết kế đẹp mắt, phù hợp làm quà tặng.",
+    "material": "Lông thú mềm mại",
+    "cotton": "100% bông nguyên sinh cao cấp",
+    "guide": "Dùng làm gấu ôm, đồ trang trí hoặc quà tặng",
+    "note": "Nên giặt khô hoặc dùng dịch vụ giặt chuyên nghiệp",
+    "img": "/img/category/product/1.jpg"
+  },
+  {
+    "id": "GB10082",
+    "name": "Gấu Bông Dễ Thương Màu Nâu",
+    "price": "1.205.000đ",
+    "category": "Gấu Bông Dễ Thương",
+    "sizes": [
+      "1m7 – 1.400.000đ",
+      "1m5 – 1.100.000đ",
+      "1m1 – 655.000đ"
+    ],
+    "desc": "Gấu Bông Dễ Thương mềm mại, thiết kế đẹp mắt, phù hợp làm quà tặng.",
+    "material": "Lông thú mềm mại",
+    "cotton": "100% bông nguyên sinh cao cấp",
+    "guide": "Dùng làm gấu ôm, đồ trang trí hoặc quà tặng",
+    "note": "Nên giặt khô hoặc dùng dịch vụ giặt chuyên nghiệp",
+    "img": "/img/category/product/2.jpg"
+  },
+  {
+    "id": "GB10083",
+    "name": "Gấu Bông Dễ Thương Màu Hồng",
+    "price": "787.000đ",
+    "category": "Gấu Bông Dễ Thương",
+    "sizes": [
+      "1m7 – 1.400.000đ",
+      "1m5 – 1.100.000đ",
+      "1m1 – 655.000đ"
+    ],
+    "desc": "Gấu Bông Dễ Thương mềm mại, thiết kế đẹp mắt, phù hợp làm quà tặng.",
+    "material": "Lông thú mềm mại",
+    "cotton": "100% bông nguyên sinh cao cấp",
+    "guide": "Dùng làm gấu ôm, đồ trang trí hoặc quà tặng",
+    "note": "Nên giặt khô hoặc dùng dịch vụ giặt chuyên nghiệp",
+    "img": "/img/category/product/3.jpg"
+  },
+  {
+    "id": "GB10084",
+    "name": "Gấu Bông Dễ Thương Màu Xám",
+    "price": "1.034.000đ",
+    "category": "Gấu Bông Dễ Thương",
+    "sizes": [
+      "1m7 – 1.400.000đ",
+      "1m5 – 1.100.000đ",
+      "1m1 – 655.000đ"
+    ],
+    "desc": "Gấu Bông Dễ Thương mềm mại, thiết kế đẹp mắt, phù hợp làm quà tặng.",
+    "material": "Lông thú mềm mại",
+    "cotton": "100% bông nguyên sinh cao cấp",
+    "guide": "Dùng làm gấu ôm, đồ trang trí hoặc quà tặng",
+    "note": "Nên giặt khô hoặc dùng dịch vụ giặt chuyên nghiệp",
+    "img": "/img/category/product/4.jpg"
+  },
+  {
+    "id": "GB10085",
+    "name": "Gấu Bông Dễ Thương Màu Hồng",
+    "price": "538.000đ",
+    "category": "Gấu Bông Dễ Thương",
+    "sizes": [
+      "1m7 – 1.400.000đ",
+      "1m5 – 1.100.000đ",
+      "1m1 – 655.000đ"
+    ],
+    "desc": "Gấu Bông Dễ Thương mềm mại, thiết kế đẹp mắt, phù hợp làm quà tặng.",
+    "material": "Lông thú mềm mại",
+    "cotton": "100% bông nguyên sinh cao cấp",
+    "guide": "Dùng làm gấu ôm, đồ trang trí hoặc quà tặng",
+    "note": "Nên giặt khô hoặc dùng dịch vụ giặt chuyên nghiệp",
+    "img": "/img/category/product/5.jpg"
+  },
+  {
+    "id": "GB10086",
+    "name": "Gấu Bông Dễ Thương Màu Xám",
+    "price": "1.222.000đ",
+    "category": "Gấu Bông Dễ Thương",
+    "sizes": [
+      "1m7 – 1.400.000đ",
+      "1m5 – 1.100.000đ",
+      "1m1 – 655.000đ"
+    ],
+    "desc": "Gấu Bông Dễ Thương mềm mại, thiết kế đẹp mắt, phù hợp làm quà tặng.",
+    "material": "Lông thú mềm mại",
+    "cotton": "100% bông nguyên sinh cao cấp",
+    "guide": "Dùng làm gấu ôm, đồ trang trí hoặc quà tặng",
+    "note": "Nên giặt khô hoặc dùng dịch vụ giặt chuyên nghiệp",
+    "img": "/img/category/product/6.jpg"
+  },
+  {
+    "id": "GB10087",
+    "name": "Gấu Bông Dễ Thương Màu Socola",
+    "price": "1.429.000đ",
+    "category": "Gấu Bông Dễ Thương",
+    "sizes": [
+      "1m7 – 1.400.000đ",
+      "1m5 – 1.100.000đ",
+      "1m1 – 655.000đ"
+    ],
+    "desc": "Gấu Bông Dễ Thương mềm mại, thiết kế đẹp mắt, phù hợp làm quà tặng.",
+    "material": "Lông thú mềm mại",
+    "cotton": "100% bông nguyên sinh cao cấp",
+    "guide": "Dùng làm gấu ôm, đồ trang trí hoặc quà tặng",
+    "note": "Nên giặt khô hoặc dùng dịch vụ giặt chuyên nghiệp",
+    "img": "/img/category/product/7.jpg"
+  },
+  {
+    "id": "GB10088",
+    "name": "Gấu Bông Dễ Thương Màu Socola",
+    "price": "404.000đ",
+    "category": "Gấu Bông Dễ Thương",
+    "sizes": [
+      "1m7 – 1.400.000đ",
+      "1m5 – 1.100.000đ",
+      "1m1 – 655.000đ"
+    ],
+    "desc": "Gấu Bông Dễ Thương mềm mại, thiết kế đẹp mắt, phù hợp làm quà tặng.",
+    "material": "Lông thú mềm mại",
+    "cotton": "100% bông nguyên sinh cao cấp",
+    "guide": "Dùng làm gấu ôm, đồ trang trí hoặc quà tặng",
+    "note": "Nên giặt khô hoặc dùng dịch vụ giặt chuyên nghiệp",
+    "img": "/img/category/product/8.jpg"
+  },
+  {
+    "id": "GB10089",
+    "name": "Gấu Bông Dễ Thương Màu Socola",
+    "price": "1.008.000đ",
+    "category": "Gấu Bông Dễ Thương",
+    "sizes": [
+      "1m7 – 1.400.000đ",
+      "1m5 – 1.100.000đ",
+      "1m1 – 655.000đ"
+    ],
+    "desc": "Gấu Bông Dễ Thương mềm mại, thiết kế đẹp mắt, phù hợp làm quà tặng.",
+    "material": "Lông thú mềm mại",
+    "cotton": "100% bông nguyên sinh cao cấp",
+    "guide": "Dùng làm gấu ôm, đồ trang trí hoặc quà tặng",
+    "note": "Nên giặt khô hoặc dùng dịch vụ giặt chuyên nghiệp",
+    "img": "/img/category/product/9.jpg"
+  },
+  {
+    "id": "GB10090",
+    "name": "Gấu Bông Dễ Thương Màu Hồng",
+    "price": "1.321.000đ",
+    "category": "Gấu Bông Dễ Thương",
+    "sizes": [
+      "1m7 – 1.400.000đ",
+      "1m5 – 1.100.000đ",
+      "1m1 – 655.000đ"
+    ],
+    "desc": "Gấu Bông Dễ Thương mềm mại, thiết kế đẹp mắt, phù hợp làm quà tặng.",
+    "material": "Lông thú mềm mại",
+    "cotton": "100% bông nguyên sinh cao cấp",
+    "guide": "Dùng làm gấu ôm, đồ trang trí hoặc quà tặng",
+    "note": "Nên giặt khô hoặc dùng dịch vụ giặt chuyên nghiệp",
+    "img": "/img/category/product/10.jpg"
+  }
+]

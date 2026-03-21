@@ -1,0 +1,317 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <title>Products</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+    />
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css"
+    />
+    <link rel="stylesheet" href="/style.css" />
+    <link rel="stylesheet" href="/product.css" />
+
+    <link
+      href="https://fonts.googleapis.com/css2?family=Baloo+2:wght@400;600&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <header>
+      <div style="height: 2px; width: 100%; background: #ffffff"></div>
+
+      <nav class="navbar navbar-expand-sm">
+        <div class="container">
+          <!-- logo -->
+          <a class="navbar-brand" href="/index.html">
+            <img
+              class="img-fluid"
+              src="/img/logo.png"
+              alt="Logo"
+              style="width: 80px"
+            />
+            <p class="h1">GẤU BÔNG YÊU THƯƠNG</p>
+          </a>
+          <!-- logo -->
+          <div class="navbar-search">
+            <form class="d-flex" onsubmit="return false;">
+              <input
+                id="searchInput"
+                class="form-control me-2"
+                type="text"
+                placeholder="Nhập sản phẩm cần tìm"
+              />
+              <button class="btn-search" type="button">
+                <i class="fa-solid fa-magnifying-glass"></i>
+              </button>
+            </form>
+
+            <!-- box kết quả -->
+            <div id="searchResult" class="search-result d-none"></div>
+          </div>
+
+          <div class="navbar-phone">
+            <p>
+              <i
+                class="fa-solid fa-phone"
+                style="color: rgb(255, 255, 255)"
+              ></i>
+            </p>
+            <a href="tel:0901234567" class="h3">036.666.6633</a>
+          </div>
+
+          <div class="navbar-cart">
+            <div class="cart-icon">
+              <i class="fa-solid fa-baby-carriage"></i>
+            </div>
+            <div class="cart-text">Chưa có sản phẩm trong giỏ</div>
+          </div>
+        </div>
+      </nav>
+
+      <nav class="navbar navbar-expand-sm menu sticky-top">
+        <div class="container">
+          <div class="menu-item">
+            <ul>
+              <li class="has-dropdown">
+                <a href="/product.html">Sản phẩm</a>
+                <ul class="dropdown-menu">
+                  <li><a href="#">Gấu bông</a></li>
+                  <li><a href="#">Thú nhồi bông</a></li>
+                  <li><a href="#">Quà tặng</a></li>
+                </ul>
+              </li>
+
+              <li><a href="#">Dịch vụ</a></li>
+              <li><a href="#">Tin tức</a></li>
+              <li><a href="#">Hỗ trợ</a></li>
+              <li class="login"><a href="#">Đăng nhập</a></li>
+            </ul>
+          </div>
+        </div>
+      </nav>
+      <div style="height: 8px; width: 100%; background: #b0d236"></div>
+    </header>
+    <main>
+      <div class="container">
+        <ul class="breadcrumb">
+          <li class="breadcrumb-item">
+            <a href="/index.html">Trang chủ</a>
+          </li>
+          <li class="breadcrumb-item"><a href="/login.html">Sản phẩm</a></li>
+          <li class="breadcrumb-item">Sản phẩm</li>
+        </ul>
+
+        <nav class="d-flex">
+          <div class="filter">
+            <div class="filer-item1">
+              <div class="filer-border">
+                <div class="filter-item-a1">Loại sản phẩm</div>
+                <div class="filter-item-form">
+                  <form id="category-filter-form">
+  <div class="form-check">
+    <input type="checkbox" class="form-check-input" id="check1" value="Gấu Teddy Cao Cấp" checked />
+    <label for="check1">Gấu Teddy Cao Cấp</label>
+  </div>
+  <div class="form-check">
+    <input type="checkbox" class="form-check-input" id="check2" value="Gấu Bông Hot Trend" />
+    <label for="check2">Gấu Bông Hot Trend</label>
+  </div>
+  <div class="form-check">
+    <input type="checkbox" class="form-check-input" id="check3" value="Gấu Bông Dễ Thương" />
+    <label for="check3">Gấu Bông Dễ Thương</label>
+  </div>
+  <button type="submit" class="btn-filter">OK</button>
+</form>
+                </div>
+                
+              </div>
+            </div>
+            <!-- <div class="filer-item1">
+              <div class="filer-border">
+                <a href="#" class="main"
+                  ><i
+                    class="fa-solid fa-circle-chevron-right"
+                    style="color: rgb(0, 0, 0)"
+                  ></i
+                  >&nbspSản phẩm-main&nbsp(113)</a
+                >
+                <div class="second">
+                  <a href="#"
+                    ><i
+                      class="fa-solid fa-caret-right"
+                      style="color: rgb(0, 0, 0)"
+                    ></i
+                    >&nbspSản phẩm-sec1&nbsp(22)</a
+                  >
+                  <a href="#"
+                    ><i
+                      class="fa-solid fa-caret-right"
+                      style="color: rgb(0, 0, 0)"
+                    ></i
+                    >&nbspSản phẩm-sec1&nbsp(22)</a
+                  >
+                  <a href="#"
+                    ><i
+                      class="fa-solid fa-caret-right"
+                      style="color: rgb(0, 0, 0)"
+                    ></i
+                    >&nbspSản phẩm-sec1&nbsp(22)</a
+                  >
+                  <a href="#"
+                    ><i
+                      class="fa-solid fa-caret-right"
+                      style="color: rgb(0, 0, 0)"
+                    ></i
+                    >&nbspSản phẩm-sec1&nbsp(22)</a
+                  >
+                  <a href="#"
+                    ><i
+                      class="fa-solid fa-caret-right"
+                      style="color: rgb(0, 0, 0)"
+                    ></i
+                    >&nbspSản phẩm-sec1&nbsp(22)</a
+                  >
+                </div>
+                <a href="#" class="last"
+                  ><i
+                    class="fa-solid fa-circle-chevron-right"
+                    style="color: rgb(0, 0, 0)"
+                  ></i
+                  >&nbspSản phẩm-abc&nbsp(0)</a
+                >
+              </div>
+            </div> -->
+            <div class="filer-item1">
+              <div class="filer-border">
+                <div
+                  class="filter-item-a1"
+                  style="
+                    text-transform: uppercase;
+                    font-weight: 500;
+                    font-size: 17px;
+                  "
+                >
+                  Lọc khác
+                </div>
+
+                <div class="filter-item-form">
+                  <p>Dùng để lọc giá tiền trong tầm giá khách hàng</p>
+                  <form id="price-filter-form">
+                    <div class="mb-3">
+                      <label for="price-input" class="pb-1">Nhập giá tối đa</label>
+                      <input
+                        type="number"
+                        class="form-control"
+                        id="price-input"
+                        name="price"
+                        min="0"
+                        placeholder="Nhập giá tối đa..."
+                      />
+                    </div>
+                    <div class="filter-item-a1">
+                      <button type="submit" class="btn-filter">OK</button>
+                    </div>
+                  </form>
+                </div>
+              </div>
+            </div>
+            <div class="filer-item1"></div>
+          </div>
+          <div class="product">
+            <p class="h3">Sản phẩm</p>
+            <div class="d-flex gap-4">
+              <div class="input-group mb-3">
+                <span class="input-group-text">Sắp xếp:</span>
+                <select class="form-select" id="sort-select">
+                  <option value="default">Mặc định</option>
+                  <option value="name-asc">Tên (A - Z)</option>
+                  <option value="name-desc">Tên (Z - A)</option>
+                  <option value="price-asc">Giá (Thấp - Cao)</option>
+                  <option value="price-desc">Giá (Cao - Thấp)</option>
+                </select>
+              </div>
+              <div class="input-group mb-3">
+                <span class="input-group-text">Hiển thị:</span>
+                <select class="form-select" id="show-select">
+                  <option value="3">3</option>
+                  <option value="6">6</option>
+
+                  <option value="12">12</option>
+                  <option value="24">24</option>
+                  <option value="48">48</option>
+                  <option value="100">100</option>
+                </select>
+              </div>
+            </div>
+            <div class="row g-4 pt-3" id="products-list"></div>
+            <div class="row g-4 pt-3">
+  <div id="products-list"></div>
+    <!-- JS sẽ cập nhật text ở đây -->
+  </div>
+</div>
+          </div>
+        </nav>
+      </div>
+      <script src="main.js"></script>
+      <script src="product.js"></script>
+    </main>
+    <footer class="footer">
+      <div class="container">
+        <div class="row">
+          <!-- Cột 1: Logo + giới thiệu -->
+          <div class="col-lg-3 col-md-6 col-12">
+            <h4 class="footer-title">GẤU BÔNG DỄ THƯƠNG</h4>
+            <p>Shop gấu bông dễ thương, quà tặng ý nghĩa cho mọi lứa tuổi 💖</p>
+            <p>
+              <i class="fa-solid fa-mobile-screen-button"></i
+              ><a href="tel:+09121212121 ">036 666 6633</a>
+            </p>
+            <p><i class="fa-regular fa-map"></i> TP.HCM</p>
+            <p>
+              <i class="fa-regular fa-envelope"></i
+              ><a href="mailto:jdhsdhsjdsjdjshdjh">gau@gmail.com</a>
+            </p>
+          </div>
+
+          <!-- Cột 2: Liên kết -->
+          <div class="col-lg-3 col-md-6 col-12">
+            <h4 class="footer-title">Liên kết</h4>
+            <ul>
+              <li><a href="#">Sản phẩm</a></li>
+              <li><a href="#">Dịch vụ</a></li>
+              <li><a href="#">Tin tức</a></li>
+              <li><a href="#">Hỗ trợ</a></li>
+            </ul>
+          </div>
+
+          <!-- Cột 3: Hỗ trợ -->
+          <div class="col-lg-3 col-md-6 col-12">
+            <h4 class="footer-title">Hỗ trợ</h4>
+            <ul>
+              <li><a href="#">Chính sách đổi trả</a></li>
+              <li><a href="#">Chính sách bảo hành</a></li>
+              <li><a href="#">Hướng dẫn mua hàng</a></li>
+            </ul>
+          </div>
+
+          <!-- Cột 4: Liên hệ -->
+          <div class="col-lg-3 col-md-6 col-12">
+            <h4 class="footer-title">Liên hệ</h4>
+            <p><i class="fa-brands fa-tiktok"></i> <a href="#">Tiktok</a></p>
+            <p><i class="fa-brands fa-facebook"></i><a href="#">Facebook</a></p>
+            <p><i class="fa-solid fa-shop"></i><a href="#">Shopee</a></p>
+          </div>
+        </div>
+
+        <!-- dưới cùng -->
+        <div class="footer-bottom">© 2026 Gấu Bông - All rights reserved</div>
+      </div>
+    </footer>
+  </body>
+</html>

@@ -1,0 +1,53 @@
+{
+  "products": [
+    
+    {
+      "name": "Gấu Trái Cây",
+      "price": 180000,
+      "img": "img/product/1.jpg",
+      "category": "hottrend"
+    },
+    {
+      "name": "Gấu Hottrend Dưa Hấu",
+      "price": 200000,
+      "img": "img/product/2.jpg",
+      "category": "hottrend"
+    },
+    {
+      "name": "Gấu Hottrend Dưa Hấu",
+      "price": 350000,
+      "img": "img/product/3.jpg",
+      "category": "hottrend"
+    },
+    {
+      "name": "Gấu Hottrend Hươu Cao Cổ",
+      "price": 200000,
+      "img": "img/product/4.jpg",
+      "category": "hottrend"
+    },
+    {
+      "name": "Gấu Teddy Nâu",
+      "price": 120000,
+      "img": "img/product/5.jpg",
+      "category": "teddy"
+    },
+    {
+      "name": "Cặp Gấu Teddy",
+      "price": 300000,
+      "img": "img/product/6.jpg",
+      "category": "teddy"
+    },
+    {
+      "name": "Cặp Gấu Teddy Nâu",
+      "price": 300000,
+      "img": "img/product/7.jpg",
+      "category": "teddy"
+    },
+    {
+      "name": "Gấu Teddy Squad",
+      "price": 500000,
+      "img": "img/product/8.jpg",
+      "category": "teddy"
+    }
+  ]
+}

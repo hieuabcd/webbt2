@@ -1,0 +1,124 @@
+<footer class="pt-5 pb-4">
+      <div class="container footer">
+        <div class="row g-4">
+          <div class="col-lg-3 col-md-6 col-12">
+            <p class="footer-title">Thông tin</p>
+            <ul>
+              <li>Trang chủ</li>
+              <li>Chính sách Cookie</li>
+              <li>Chính sách hỗ trợ</li>
+              <li>Về chúng tôi</li>
+              <li>Sản phẩm giảm giá</li>
+            </ul>
+          </div>
+
+          <div class="col-lg-3 col-md-6 col-12">
+            <p class="footer-title">Tài khoản</p>
+            <ul>
+              <li>Tài khoản của tôi</li>
+              <li>Lịch sử đơn hàng</li>
+              <li>Danh sách yêu thích</li>
+              <li>Bản tin</li>
+            </ul>
+          </div>
+
+          <div class="col-lg-3 col-md-6 col-12">
+            <p class="footer-title">Mạng xã hội</p>
+            <p style="color: rgb(226, 226, 226)">
+              Theo dõi chúng tôi trên các mạng xã hội
+            </p>
+            <ul class="social">
+              <li><i class="fa-brands fa-facebook"></i> Facebook</li>
+              <li><i class="fa-solid fa-comment"></i> Zalo</li>
+              <li><i class="fa-brands fa-tiktok"></i> TikTok</li>
+              <li><i class="fa-solid fa-bag-shopping"></i> Shopee</li>
+            </ul>
+          </div>
+
+          <div class="col-lg-3 col-md-6 col-12">
+            <p class="footer-title">Bản tin</p>
+            <p style="color: rgb(226, 226, 226)">
+              Đăng ký nhận bản tin để cập nhật sản phẩm mới, khuyến mãi và các
+              thông tin mới nhất từ chúng tôi.
+            </p>
+
+            <button
+              class="newsletter-btn w-100"
+              data-bs-toggle="modal"
+              data-bs-target="#myModal"
+            >
+              <i
+                class="fa-solid fa-circle-info"
+                style="color: rgb(255, 255, 255)"
+              ></i
+              >&nbsp;Đăng ký nhận tin
+            </button>
+            <div class="modal fade" id="myModal">
+              <div class="modal-dialog">
+                <div class="modal-content">
+                  <!-- Modal Header -->
+                  <div class="modal-header">
+                    <p class="modal-title">Đăng ký nhận bản tin</p>
+                    <button
+                      type="button"
+                      class="btn-close"
+                      data-bs-dismiss="modal"
+                    ></button>
+                  </div>
+
+                  <!-- Modal body -->
+                  <div class="modal-body">
+                    <form class="newsletter-form">
+                      <label class="label2">Tên của bạn</label>
+                      <input type="text" class="form-control" placeholder="" />
+
+                      <label class="label2">Email</label>
+                      <input type="email" class="form-control" placeholder="" />
+                    </form>
+                  </div>
+
+                  <!-- Modal footer -->
+                  <div class="modal-footer">
+                    <button
+                      type="button"
+                      class="btn btn-outline-secondary"
+                      data-bs-dismiss="modal"
+                    >
+                      <i
+                        class="fa-solid fa-x fa-xs"
+                        style="color: rgb(0, 0, 0)"
+                      ></i
+                      >&nbsp;Đóng
+                    </button>
+                    <button
+                      type="submit"
+                      class="btn btn-primary"
+                      data-bs-dismiss="modal"
+                    >
+                      <i
+                        class="fa-solid fa-arrow-right-to-bracket"
+                        style="color: rgb(255, 255, 255)"
+                      ></i
+                      >&nbsp;Đăng ký
+                    </button>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="text-md-end text-center mt-3">
+          <img src="./img/footer.png" alt="" />
+        </div>
+        <hr style="color: white" />
+        <div class="text-center text-md-start text-white">
+          <p class="mb-0">
+            &copy;
+            <script>
+              document.write(new Date().getFullYear());
+            </script>
+            hieu. All rights reserved.
+          </p>
+        </div>
+      </div>
+    </footer>

@@ -1,0 +1,531 @@
+:root {
+  --mauchude: #f7edd7;
+  --mauphu: #ff6b81;
+  --mauchulink: #333;
+  --hover:#ff6b81;
+  --mauchu:#333
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+    color:#5d5b5b;
+      font-family: "Baloo 2", cursive;
+
+}
+a{
+    text-decoration: none;
+    color: var(--mauchulink);
+}
+li{
+    list-style-type: none;
+
+}
+p{
+  margin-top: 0;
+  margin-bottom: 0;
+}
+a:hover{
+    color: var(--hover);
+}
+.container {
+  max-width: 1150px;
+  margin: auto;
+}
+
+.navbar {
+}
+
+.navbar-brand {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.navbar-brand p {
+  margin: 0;
+  font-family: "Baloo 2", cursive;
+  font-size: 30px;
+  font-weight: 600;
+  color: var(--mauphu);
+  letter-spacing: 1px;
+  text-shadow: 1px 1px 2px #ffd6e0;
+}
+
+.navbar-phone {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.navbar-phone p {
+  
+  font-size: 25px;
+  font-weight: bold;
+  margin-bottom: 10px; /* cách với text dưới */
+}
+.navbar-phone p i {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 42px;
+  height: 42px;
+  background: linear-gradient(45deg, #ff9a9e, #ff6b81);
+  color: white;
+  border-radius: 50%;
+  font-size: 16px;
+  box-shadow: 0 4px 8px rgba(255, 107, 129, 0.4);
+}
+
+.navbar-phone a {
+  text-decoration: none;
+  margin: 0;
+  font-family: "Baloo 2", cursive;
+  font-size: 25px;
+  font-weight: 600;
+  color: var(--mauphu);
+  letter-spacing: 1px;
+  text-shadow: 1px 1px 2px #ffd6e0;
+}
+
+.btn-search{
+    border: none;
+    background-color: transparent;
+    padding-right: 14px;
+}
+.navbar-search{
+    border:1px solid var(--mauphu);
+    border-radius: 15px;
+    width: 350px;
+      position: relative;
+
+}
+
+.navbar-search input{
+     margin-left: 10px;
+    border: none;
+} 
+.navbar-search .form-control {
+  border: none !important;
+  box-shadow: none !important;
+  outline: none !important;
+  background: transparent !important; /* QUAN TRỌNG */
+  padding-left: 0; /* bỏ khoảng cách bên trái */
+}
+.search-result {
+  position: absolute;
+  background: #fff;
+  width: 350px;
+  top: 100%;
+  border: 1px solid #ddd;
+  border-radius: 6px;
+  max-height: 300px;
+  overflow-y: auto;
+  z-index: 999;
+}
+
+.search-item {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 8px;
+  cursor: pointer;
+}
+
+.search-item:hover {
+  background: #f5f5f5;
+}
+
+.search-item img {
+  width: 40px;
+  height: 40px;
+  object-fit: cover;
+}
+/* phần text (tên) */
+.search-item > div {
+  flex: 1;   /* chiếm hết khoảng giữa */
+}
+
+/* giá đẩy sang phải */
+.search-item .price {
+  white-space: nowrap;
+  font-weight: bold;
+}
+.navbar-cart {
+  position: relative;
+  display: inline-block;
+}
+
+
+/* icon */
+.cart-icon i {
+  font-size: 40px;
+  cursor: pointer;
+    color: var(--mauphu);
+
+}
+
+/* text ẩn ban đầu */
+.cart-text {
+  position: absolute;
+  top: 120%;
+  right: 0;
+
+  background: #fff;
+  padding: 30px;
+  border-radius: 8px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+
+  opacity: 0;
+  visibility: hidden;
+  transition: 0.3s;
+  width: 300px;
+  z-index: 9999;
+}
+
+/* hover vào icon thì hiện */
+.cart-icon:hover + .cart-text {
+  opacity: 1;
+  visibility: visible;
+}
+
+.menu{
+    background-color: var(--mauchude);
+    max-height: 200px;
+    height: 60px;
+}
+
+.menu-item ul {
+  list-style: none; /* bỏ dấu chấm */
+  padding: 0;
+  margin: 0;
+
+  display: flex; /* nằm ngang */
+  gap: 50px; /* khoảng cách giữa các item */
+  
+}
+
+.menu-item li a {
+  text-decoration: none;
+  color: var(--mauchulink);
+  font-weight: 500;
+  text-transform: uppercase;
+  
+}
+
+/* hover cho đẹp */
+.menu-item li a:hover {
+  color: #ff6b81;
+}
+
+
+/* item cha */
+.menu-item li {
+  position: relative;
+}
+
+
+/* dropdown ẩn */
+.dropdown-menu {
+  position: absolute;
+  top: 120%;
+  left: 0;
+
+  background: #fff;
+  border-radius: 10px;
+  padding: 10px 0;
+
+  min-width: 180px;
+  box-shadow: 0 8px 20px rgba(0,0,0,0.1);
+
+  opacity: 0;
+  visibility: hidden;
+  transform: translateY(10px);
+
+  transition: 0.3s;
+}
+
+/* item trong dropdown */
+.dropdown-menu li {
+  padding: 8px 15px;
+}
+
+.dropdown-menu li a {
+  color: #333;
+  text-decoration: none;
+  display: block;
+}
+
+.dropdown-menu li:hover {
+  background: #ffe4ec;
+}
+
+/* hover hiện dropdown */
+.has-dropdown:hover .dropdown-menu {
+  opacity: 1;
+  visibility: visible;
+  transform: translateY(0);
+}
+
+
+.info-web {
+  display: flex;
+  justify-content: space-between; 
+  align-items: center;
+
+  gap: 20px;
+  padding-top: 10px;
+}
+
+.info-web > div {
+  flex: 1; 
+  text-align: center;
+
+  padding: 10px;
+  border-radius: 12px;
+
+  transition: 0.3s;
+}
+
+.info-web img {
+  width: 80px;
+  height: 70px;
+  object-fit: contain;
+}
+
+.info-web div p {
+  font-size: 18px;
+  font-weight: lighter;
+}
+
+.info-web > div:hover {
+  color: var(--mauphu);
+  
+}
+
+
+
+
+
+.img-box {
+  overflow: hidden; /* quan trọng: không tràn */
+  border-radius: 10px;
+}
+
+.img-box img {
+  transition: transform 0.3s ease;
+}
+
+/* hover zoom */
+.img-box:hover img {
+  transform: scale(1.1);
+}
+
+
+.h3{
+    color: #ff6b81;
+    font-weight: bold;
+    text-align: center;
+}
+
+.hr{
+    border: 1px solid rgb(5, 210, 100) ;
+}
+
+/* khung card */
+.product-card {
+  background: #fff;
+  border-radius: 12px;
+  overflow: hidden;
+  transition: all 0.3s ease;
+  
+  /* shadow nhẹ */
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+}
+
+/* hover nổi lên */
+.product-card:hover {
+  box-shadow: 0 25px 30px rgba(0, 0, 0, 0.2);
+}
+
+
+
+
+.card-body {
+  text-align: center;
+}
+
+.card-title {
+  font-size: 16px;
+  font-weight: 500;
+  margin: 10px 0;
+  padding-top: 10px;
+}
+
+.card-price {
+  color: red;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.btn-buy {
+  display: inline-block;
+  padding: 6px 15px;
+    margin-bottom: 20px;
+  background-color: #ff6b81;
+  color: white;
+  text-decoration: none;
+    border-radius: 5px;
+  transition: 0.3s;
+}
+
+.btn-view {
+  display: block;
+  width: fit-content;
+
+  margin: 20px auto; /* căn giữa */
+  padding: 10px 25px;
+
+  background: #fff;
+  color: #ff6b81;
+
+  border: 2px solid #ff6b81;
+  border-radius: 10px;
+
+  text-decoration: none;
+  font-weight: 500;
+
+  transition: 0.3s;
+}
+
+.btn-view:hover {
+  background: #ff6b81;
+  color: #fff;
+}
+
+.title-page{
+      display: block; 
+
+    padding-top: 30px;
+    text-decoration: none;
+    color: var(--mauphu);
+    font-size: 35px;
+    text-transform: uppercase;
+    text-align: center;
+  font-weight: 800; /* bold */
+  text-transform: uppercase;
+
+  color: #ff6b81;
+}
+
+.row > div.d-flex {
+  gap: 15px;              
+  margin-bottom: 20px;
+}
+
+/* khung ảnh */
+.row > div.d-flex img {
+  width: 150px;          
+  height: 100%;          
+  object-fit: cover;     
+  border-radius: 5px;
+}
+
+.row > div.d-flex > div:last-child {
+  flex: 1;               
+}
+
+.row > div.d-flex a {
+  display: block;
+  font-weight: bold;
+  text-decoration: none;
+  color: #000;
+  margin-bottom: 5px;
+}
+
+.row > div.d-flex a:hover {
+  color: #ff6b81;
+}
+
+.row > div.d-flex p {
+  font-size: 14px;
+  color: #666;
+  margin: 0;
+}
+
+.footer {
+  background: var(--mauchude);
+  color: var(--mauchu);
+  padding: 50px 0 20px;
+  font-size: 14px;
+}
+
+/* title */
+.footer-title {
+  color: var(--mauchulink);
+  font-size: 18px;
+  margin-bottom: 15px;
+  font-weight: 600;
+}
+
+/* text + icon */
+.footer p {
+  margin-bottom: 8px;
+  line-height: 1.6;
+}
+
+.footer i {
+  margin-right: 6px;
+}
+
+/* link */
+.footer a {
+  color: var(--mauchulink);
+  text-decoration: none;
+  transition: 0.2s;
+}
+
+.footer a:hover {
+  color: var(--hover);
+}
+
+/* list */
+.footer ul {
+  list-style: none;
+  padding: 0;
+}
+
+.footer ul li {
+  margin-bottom: 8px;
+}
+
+/* MAP */
+.footer iframe {
+  margin-top: 10px;
+  border-radius: 8px;
+  width: 100%;
+  height: 150px;
+}
+
+/* FACEBOOK BOX */
+.fb-page {
+  margin-bottom: 10px;
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+/* bottom */
+.footer-bottom {
+  text-align: center;
+  margin-top: 30px;
+  padding-top: 15px;
+  border-top: 1px solid #333;
+  font-size: 13px;
+  color: #888;
+
+}
+
+
+  

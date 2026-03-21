@@ -1,0 +1,170 @@
+body {
+  background-color: #f5f5f5;
+}
+
+nav.d-flex {
+  gap: 20px;
+}
+
+.filter {
+  width: 250px;
+}
+
+.filer-item1 {
+  margin-bottom: 20px;
+}
+
+.filer-border {
+  background: #fff;
+  border-radius: 10px;
+  padding: 15px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+}
+
+.filter-item-a1 {
+  font-weight: 600;
+  margin-bottom: 10px;
+  font-size: 16px;
+}
+
+.form-check {
+  margin-bottom: 8px;
+}
+
+.form-check-input:checked {
+  background-color: #ff4d4f;
+  border-color: #ff4d4f;
+}
+
+.btn-filter {
+  width: 100%;
+  background: #ff4d4f;
+  color: white;
+  border: none;
+  padding: 8px;
+  border-radius: 6px;
+  transition: 0.3s;
+}
+
+.btn-filter:hover {
+  background: #e63b3e;
+}
+
+.form-control {
+  border-radius: 6px;
+}
+
+.product {
+  flex: 1;
+  background: #fff;
+  padding: 15px;
+  border-radius: 10px;
+}
+
+.product .h3 {
+  font-weight: 600;
+  margin-bottom: 15px;
+}
+
+.input-group-text {
+  background: #fff;
+}
+
+.form-select {
+  border-radius: 6px;
+}
+
+.card {
+  border: none;
+  border-radius: 12px;
+  overflow: hidden;
+  transition: 0.3s;
+  box-shadow: 0 10px 25px rgba(0,0,0,0.05);
+}
+
+.card:hover {
+  box-shadow: 0 20px 35px rgba(0,0,0,0.1);
+}
+
+.card img {
+  height: 200px;
+  object-fit: cover;
+}
+
+.card-body {
+  padding: 20px;
+  text-align: left;
+}
+
+.card-title {
+  font-size: 15px;
+  height: 40px;
+  overflow: hidden;
+}
+
+/* ===== Giá sản phẩm ===== */
+.card-price {
+  color: #ff4d4f;
+  font-weight: bold;
+  font-size: 16px;
+}
+
+/* ===== Nút mua ===== */
+.buy-btn {
+  background: linear-gradient(135deg, #ff4d4f, #ff7a45);
+  color: #fff !important;
+  padding: 6px 12px;
+  border-radius: 6px;
+  font-size: 13px;
+  font-weight: 500;
+  text-decoration: none;
+  transition: 0.3s;
+}
+
+/* hover */
+.buy-btn:hover {
+  background: linear-gradient(135deg, #e63b3e, #ff4d4f);
+  transform: scale(1.05);
+}
+/* ===== PAGINATION ===== */
+.pagination .page-link {
+ 
+  margin: 0 3px;
+  color: #333;
+}
+
+.pagination .page-link:hover {
+  background: #ff4d4f;
+  color: #fff;
+}
+
+.pagination .active .page-link {
+  background: #ff4d4f;
+  border-color: #ff4d4f;
+}
+
+@media (max-width: 768px) {
+  nav.d-flex {
+    flex-direction: column;
+  }
+
+  .filter {
+    width: 100%;
+  }
+}
+
+.d-flex.gap-4 {
+  flex-wrap: wrap; /* cho phép xuống dòng nếu không đủ chỗ */
+}
+
+.d-flex.gap-4 .input-group {
+  flex: 1 1 200px; /* tự co giãn, tối thiểu 200px */
+  min-width: 100%; /* mặc định trên mobile full width */
+}
+
+/* Media query: trên màn hình >= 768px (tablet, desktop) thì hiển thị ngang */
+@media (min-width: 768px) {
+  .d-flex.gap-4 .input-group {
+    min-width: auto; /* reset full width */
+  }
+}
