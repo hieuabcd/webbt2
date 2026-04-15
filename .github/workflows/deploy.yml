@@ -22,7 +22,7 @@ jobs:
 
     - name: Deploy to VPS
       run: |
-        ssh -o StrictHostKeyChecking=no root@168.144.96.202 << 'EOF'
+        ssh -o StrictHostKeyChecking=no root@dev.quynhdemo.click << 'EOF'
           cd /var/www/html
 
           # đảm bảo đúng branch
