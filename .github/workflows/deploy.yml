@@ -28,4 +28,4 @@ jobs:
 
     - name: Reload Nginx
       run: |
-        ssh -o StrictHostKeyChecking=no root@quynhdemo.click "systemctl reload nginx"
+        ssh -o StrictHostKeyChecking=no root@dev.quynhdemo.click "systemctl reload nginx"
