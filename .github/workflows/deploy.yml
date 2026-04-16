@@ -11,26 +11,19 @@ jobs:
 
     steps:
 
-    - name: Checkout code
-      uses: actions/checkout@v3
-
-    - name: Setup SSH
+    - name: Setup SSH + Deploy
       run: |
         mkdir -p ~/.ssh
         echo "${{ secrets.SSH_PRIVATE_KEY }}" > ~/.ssh/id_ed25519
         chmod 600 ~/.ssh/id_ed25519
 
-    - name: Deploy to VPS
-      run: |
         ssh -o StrictHostKeyChecking=no root@quynhdemo.click << 'EOF'
+          set -e
+
           cd /var/www/html
 
-          # đảm bảo đúng branch
-          git checkout main
+          git fetch origin main
+          git reset --hard origin/main
 
-          # pull đúng branch
-          git pull origin main
-
-          # reload nginx
           systemctl reload nginx
         EOF
