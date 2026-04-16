@@ -1,4 +1,4 @@
-name: Deploy Website
+name: Fast Deploy (rsync)
 
 on:
   push:
@@ -11,19 +11,21 @@ jobs:
 
     steps:
 
-    - name: Setup SSH + Deploy
+    - name: Checkout code
+      uses: actions/checkout@v3
+
+    - name: Setup SSH
       run: |
         mkdir -p ~/.ssh
         echo "${{ secrets.SSH_PRIVATE_KEY }}" > ~/.ssh/id_ed25519
         chmod 600 ~/.ssh/id_ed25519
 
-        ssh -o StrictHostKeyChecking=no root@quynhdemo.click << 'EOF'
-          set -e
+    - name: Deploy via rsync (FAST)
+      run: |
+        rsync -avz --delete \
+        -e "ssh -o StrictHostKeyChecking=no" \
+        ./ root@quynhdemo.click:/var/www/html/
 
-          cd /var/www/html
-
-          git fetch origin main
-          git reset --hard origin/main
-
-          systemctl reload nginx
-        EOF
+    - name: Reload Nginx
+      run: |
+        ssh -o StrictHostKeyChecking=no root@quynhdemo.click "systemctl reload nginx"
