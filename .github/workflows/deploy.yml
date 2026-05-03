@@ -1,22 +1,36 @@
-name: Fast Deploy (Runner)
+name: Deploy Multi Env (No Runner)
 
 on:
   push:
     branches:
+      - dev
+      - staging
       - main
 
 jobs:
   deploy:
-    runs-on: self-hosted
+    runs-on: ubuntu-latest
 
     steps:
+      - name: Deploy via SSH
+        uses: appleboy/ssh-action@v1.0.0
+        with:
+          host: quynhdemo.click   # IP VPS
+          username: root
+          key: ${{ secrets.SSH_KEY }}
+          script: |
+            if [ "${{ github.ref_name }}" = "dev" ]; then
+              cd /var/www/dev
+              git fetch origin dev
+              git reset --hard origin/dev
+            elif [ "${{ github.ref_name }}" = "staging" ]; then
+              cd /var/www/staging
+              git fetch origin staging
+              git reset --hard origin/staging
+            else
+              cd /var/www/prod
+              git fetch origin main
+              git reset --hard origin/main
+            fi
 
-    - name: Update code
-      run: |
-        cd /var/www/html
-        git fetch origin main
-        git reset --hard origin/main
-
-    - name: Reload Nginx
-      run: |
-        systemctl reload nginx
+            systemctl reload nginx
