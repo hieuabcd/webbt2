@@ -3,10 +3,12 @@ version: "3.9"
 services:
   web:
     image: nginx:latest
-    
+    container_name: static-web
+
     restart: always
 
-    
+    ports:
+      - "3000:80"
 
     volumes:
       - /opt/app/html:/usr/share/nginx/html
