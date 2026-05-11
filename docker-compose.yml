@@ -9,5 +9,9 @@ services:
       - "${APP_PORT}:80"
 
     volumes:
+<<<<<<< HEAD
       - /opt/app/html:/usr/share/nginx/html
+=======
+      - /var/www/${APP_NAME}:/usr/share/nginx/html
+>>>>>>> 06c78fd4b76aead6adb1ae2a95d27e9f24b31280
       - ./nginx.conf:/etc/nginx/conf.d/default.conf
